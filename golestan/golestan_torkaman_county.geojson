@@ -1,0 +1,2109 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-07-28T10:45:56Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/6554964",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "name": "شهرستان ترکمن",
+        "name:en": "Torkaman County",
+        "name:tk": "Türkmen Etraby",
+        "name:tr": "Türkmen İlçesi",
+        "place": "county",
+        "type": "boundary",
+        "wikidata": "Q1292693",
+        "wikipedia": "en:Torkaman County"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              54.1541622,
+              36.8630946
+            ],
+            [
+              54.1550001,
+              36.8639197
+            ],
+            [
+              54.1558321,
+              36.8648285
+            ],
+            [
+              54.1569659,
+              36.8656763
+            ],
+            [
+              54.1577222,
+              36.8664638
+            ],
+            [
+              54.1590822,
+              36.8671294
+            ],
+            [
+              54.1611978,
+              36.8681579
+            ],
+            [
+              54.1660935,
+              36.8693517
+            ],
+            [
+              54.1694964,
+              36.870354
+            ],
+            [
+              54.1741523,
+              36.8713546
+            ],
+            [
+              54.1798838,
+              36.8730726
+            ],
+            [
+              54.1832867,
+              36.8739307
+            ],
+            [
+              54.1875853,
+              36.8750751
+            ],
+            [
+              54.1913473,
+              36.876364
+            ],
+            [
+              54.1962985,
+              36.8787791
+            ],
+            [
+              54.2194178,
+              36.8804819
+            ],
+            [
+              54.2290766,
+              36.8797921
+            ],
+            [
+              54.2371787,
+              36.8805463
+            ],
+            [
+              54.2472971,
+              36.8903394
+            ],
+            [
+              54.2498355,
+              36.8912857
+            ],
+            [
+              54.2612219,
+              36.8955299
+            ],
+            [
+              54.2749619,
+              36.9006496
+            ],
+            [
+              54.3127392,
+              36.9096223
+            ],
+            [
+              54.3195819,
+              36.9155878
+            ],
+            [
+              54.3204832,
+              36.9167544
+            ],
+            [
+              54.3219852,
+              36.916377
+            ],
+            [
+              54.3240022,
+              36.9170632
+            ],
+            [
+              54.328165,
+              36.920357
+            ],
+            [
+              54.3332969,
+              36.9196382
+            ],
+            [
+              54.3360568,
+              36.9200874
+            ],
+            [
+              54.3377738,
+              36.9209768
+            ],
+            [
+              54.3376493,
+              36.9241996
+            ],
+            [
+              54.3401715,
+              36.926379
+            ],
+            [
+              54.3428528,
+              36.9285485
+            ],
+            [
+              54.3451244,
+              36.9265444
+            ],
+            [
+              54.3483795,
+              36.9309596
+            ],
+            [
+              54.3503227,
+              36.9323368
+            ],
+            [
+              54.357516,
+              36.933902
+            ],
+            [
+              54.3594593,
+              36.9383399
+            ],
+            [
+              54.3594593,
+              36.9408424
+            ],
+            [
+              54.3605727,
+              36.9447311
+            ],
+            [
+              54.361406,
+              36.9461175
+            ],
+            [
+              54.3616826,
+              36.9472337
+            ],
+            [
+              54.3583494,
+              36.9569556
+            ],
+            [
+              54.3530694,
+              36.9647329
+            ],
+            [
+              54.3441244,
+              36.9790174
+            ],
+            [
+              54.342325,
+              36.9775832
+            ],
+            [
+              54.3392466,
+              36.9760506
+            ],
+            [
+              54.3376969,
+              36.9726654
+            ],
+            [
+              54.3369117,
+              36.9683538
+            ],
+            [
+              54.3361241,
+              36.9634259
+            ],
+            [
+              54.3360946,
+              36.9560311
+            ],
+            [
+              54.3360848,
+              36.9535662
+            ],
+            [
+              54.3353023,
+              36.9498707
+            ],
+            [
+              54.3329867,
+              36.9467954
+            ],
+            [
+              54.3283692,
+              36.9440339
+            ],
+            [
+              54.3245257,
+              36.942811
+            ],
+            [
+              54.3199181,
+              36.9425142
+            ],
+            [
+              54.3156956,
+              36.9425244
+            ],
+            [
+              54.3099375,
+              36.9425382
+            ],
+            [
+              54.3030279,
+              36.9425543
+            ],
+            [
+              54.2957343,
+              36.942571
+            ],
+            [
+              54.288444,
+              36.9435116
+            ],
+            [
+              54.2846094,
+              36.9447525
+            ],
+            [
+              54.2800039,
+              36.9450706
+            ],
+            [
+              54.2746305,
+              36.9453901
+            ],
+            [
+              54.2673436,
+              36.947562
+            ],
+            [
+              54.2623587,
+              36.9494208
+            ],
+            [
+              54.2577604,
+              36.9522031
+            ],
+            [
+              54.2550842,
+              36.9559058
+            ],
+            [
+              54.2550944,
+              36.9592951
+            ],
+            [
+              54.2524142,
+              36.9617652
+            ],
+            [
+              54.24858,
+              36.9636212
+            ],
+            [
+              54.2432098,
+              36.96548
+            ],
+            [
+              54.2370663,
+              36.9654913
+            ],
+            [
+              54.2313058,
+              36.9651935
+            ],
+            [
+              54.2243918,
+              36.9642811
+            ],
+            [
+              54.217478,
+              36.9633684
+            ],
+            [
+              54.2086422,
+              36.9615341
+            ],
+            [
+              54.2021098,
+              36.9593875
+            ],
+            [
+              54.195582,
+              36.9590893
+            ],
+            [
+              54.1879031,
+              36.9591005
+            ],
+            [
+              54.1832977,
+              36.9600314
+            ],
+            [
+              54.1752361,
+              36.9606587
+            ],
+            [
+              54.1667952,
+              36.9637509
+            ],
+            [
+              54.1608719,
+              36.9667382
+            ],
+            [
+              54.1608651,
+              36.9667306
+            ],
+            [
+              54.137827,
+              36.9719848
+            ],
+            [
+              54.1166202,
+              36.9720827
+            ],
+            [
+              54.0451133,
+              36.9479997
+            ],
+            [
+              53.8548049,
+              36.939096
+            ],
+            [
+              53.8571537,
+              36.9375251
+            ],
+            [
+              53.8632038,
+              36.9334786
+            ],
+            [
+              54.0442145,
+              36.9389184
+            ],
+            [
+              54.044589,
+              36.9241179
+            ],
+            [
+              54.0436778,
+              36.9237615
+            ],
+            [
+              54.0437061,
+              36.9230106
+            ],
+            [
+              54.0414874,
+              36.921379
+            ],
+            [
+              54.0407536,
+              36.9158239
+            ],
+            [
+              54.0413826,
+              36.9124698
+            ],
+            [
+              54.0420902,
+              36.9071028
+            ],
+            [
+              54.0425764,
+              36.9039756
+            ],
+            [
+              54.0433207,
+              36.9030948
+            ],
+            [
+              54.0433672,
+              36.9017302
+            ],
+            [
+              54.0439062,
+              36.9015698
+            ],
+            [
+              54.0441345,
+              36.8986698
+            ],
+            [
+              54.0430739,
+              36.8984005
+            ],
+            [
+              54.0429406,
+              36.8978931
+            ],
+            [
+              54.0428202,
+              36.8971905
+            ],
+            [
+              54.043181,
+              36.8965782
+            ],
+            [
+              54.0424462,
+              36.8963227
+            ],
+            [
+              54.0425696,
+              36.8950157
+            ],
+            [
+              54.0417692,
+              36.8950134
+            ],
+            [
+              54.0421623,
+              36.8916163
+            ],
+            [
+              54.0420313,
+              36.8896871
+            ],
+            [
+              54.0430533,
+              36.8856187
+            ],
+            [
+              54.0441016,
+              36.8764326
+            ],
+            [
+              54.0440344,
+              36.8657596
+            ],
+            [
+              54.0439008,
+              36.864659
+            ],
+            [
+              54.0428001,
+              36.8533515
+            ],
+            [
+              54.0401325,
+              36.8389133
+            ],
+            [
+              54.0382085,
+              36.8328927
+            ],
+            [
+              54.0354901,
+              36.8281084
+            ],
+            [
+              54.033079,
+              36.8195657
+            ],
+            [
+              54.0331033,
+              36.8195543
+            ],
+            [
+              54.0341054,
+              36.8190855
+            ],
+            [
+              54.0361293,
+              36.8177298
+            ],
+            [
+              54.0361318,
+              36.8177308
+            ],
+            [
+              54.0389923,
+              36.8188807
+            ],
+            [
+              54.0446544,
+              36.8214816
+            ],
+            [
+              54.0674724,
+              36.831959
+            ],
+            [
+              54.0725676,
+              36.8442279
+            ],
+            [
+              54.0846881,
+              36.8549566
+            ],
+            [
+              54.0850748,
+              36.8552988
+            ],
+            [
+              54.089357,
+              36.8590889
+            ],
+            [
+              54.1132727,
+              36.8605607
+            ],
+            [
+              54.115967,
+              36.8609319
+            ],
+            [
+              54.1163313,
+              36.860982
+            ],
+            [
+              54.1163066,
+              36.8610244
+            ],
+            [
+              54.1157831,
+              36.8619245
+            ],
+            [
+              54.1158079,
+              36.8619277
+            ],
+            [
+              54.1213421,
+              36.8626318
+            ],
+            [
+              54.123823,
+              36.862376
+            ],
+            [
+              54.126314,
+              36.8623736
+            ],
+            [
+              54.1281253,
+              36.8622505
+            ],
+            [
+              54.1300119,
+              36.8619454
+            ],
+            [
+              54.1317474,
+              36.8615191
+            ],
+            [
+              54.1333315,
+              36.860911
+            ],
+            [
+              54.137029,
+              36.86024
+            ],
+            [
+              54.1404256,
+              36.8602364
+            ],
+            [
+              54.1426145,
+              36.860234
+            ],
+            [
+              54.1451061,
+              36.8606558
+            ],
+            [
+              54.1477486,
+              36.8610168
+            ],
+            [
+              54.1505421,
+              36.8614382
+            ],
+            [
+              54.1526565,
+              36.8619209
+            ],
+            [
+              54.1536387,
+              36.8624656
+            ],
+            [
+              54.1541622,
+              36.8630946
+            ]
+          ]
+        ]
+      },
+      "id": "relation/6554964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440575486",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554964,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان ترکمن",
+              "name:en": "Torkaman County",
+              "name:tk": "Türkmen Etraby",
+              "name:tr": "Türkmen İlçesi",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1292693",
+              "wikipedia": "en:Torkaman County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.1667952,
+            36.9637509
+          ],
+          [
+            54.1752361,
+            36.9606587
+          ],
+          [
+            54.1832977,
+            36.9600314
+          ],
+          [
+            54.1879031,
+            36.9591005
+          ],
+          [
+            54.195582,
+            36.9590893
+          ],
+          [
+            54.2021098,
+            36.9593875
+          ],
+          [
+            54.2086422,
+            36.9615341
+          ],
+          [
+            54.217478,
+            36.9633684
+          ],
+          [
+            54.2243918,
+            36.9642811
+          ],
+          [
+            54.2313058,
+            36.9651935
+          ],
+          [
+            54.2370663,
+            36.9654913
+          ],
+          [
+            54.2432098,
+            36.96548
+          ]
+        ]
+      },
+      "id": "way/440575486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440576865",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554964,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان ترکمن",
+              "name:en": "Torkaman County",
+              "name:tk": "Türkmen Etraby",
+              "name:tr": "Türkmen İlçesi",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1292693",
+              "wikipedia": "en:Torkaman County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.3401715,
+            36.926379
+          ],
+          [
+            54.3428528,
+            36.9285485
+          ],
+          [
+            54.3451244,
+            36.9265444
+          ],
+          [
+            54.3483795,
+            36.9309596
+          ],
+          [
+            54.3503227,
+            36.9323368
+          ],
+          [
+            54.357516,
+            36.933902
+          ],
+          [
+            54.3594593,
+            36.9383399
+          ],
+          [
+            54.3594593,
+            36.9408424
+          ],
+          [
+            54.3605727,
+            36.9447311
+          ],
+          [
+            54.361406,
+            36.9461175
+          ],
+          [
+            54.3616826,
+            36.9472337
+          ],
+          [
+            54.3583494,
+            36.9569556
+          ],
+          [
+            54.3530694,
+            36.9647329
+          ],
+          [
+            54.3441244,
+            36.9790174
+          ]
+        ]
+      },
+      "id": "way/440576865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440577048",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554964,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان ترکمن",
+              "name:en": "Torkaman County",
+              "name:tk": "Türkmen Etraby",
+              "name:tr": "Türkmen İlçesi",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1292693",
+              "wikipedia": "en:Torkaman County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.1213421,
+            36.8626318
+          ],
+          [
+            54.123823,
+            36.862376
+          ],
+          [
+            54.126314,
+            36.8623736
+          ],
+          [
+            54.1281253,
+            36.8622505
+          ],
+          [
+            54.1300119,
+            36.8619454
+          ],
+          [
+            54.1317474,
+            36.8615191
+          ],
+          [
+            54.1333315,
+            36.860911
+          ],
+          [
+            54.137029,
+            36.86024
+          ],
+          [
+            54.1404256,
+            36.8602364
+          ],
+          [
+            54.1426145,
+            36.860234
+          ],
+          [
+            54.1451061,
+            36.8606558
+          ],
+          [
+            54.1477486,
+            36.8610168
+          ],
+          [
+            54.1505421,
+            36.8614382
+          ],
+          [
+            54.1526565,
+            36.8619209
+          ],
+          [
+            54.1536387,
+            36.8624656
+          ],
+          [
+            54.1541622,
+            36.8630946
+          ]
+        ]
+      },
+      "id": "way/440577048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440577174",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554964,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان ترکمن",
+              "name:en": "Torkaman County",
+              "name:tk": "Türkmen Etraby",
+              "name:tr": "Türkmen İlçesi",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1292693",
+              "wikipedia": "en:Torkaman County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.1541622,
+            36.8630946
+          ],
+          [
+            54.1550001,
+            36.8639197
+          ],
+          [
+            54.1558321,
+            36.8648285
+          ],
+          [
+            54.1569659,
+            36.8656763
+          ],
+          [
+            54.1577222,
+            36.8664638
+          ],
+          [
+            54.1590822,
+            36.8671294
+          ],
+          [
+            54.1611978,
+            36.8681579
+          ],
+          [
+            54.1660935,
+            36.8693517
+          ],
+          [
+            54.1694964,
+            36.870354
+          ],
+          [
+            54.1741523,
+            36.8713546
+          ],
+          [
+            54.1798838,
+            36.8730726
+          ],
+          [
+            54.1832867,
+            36.8739307
+          ],
+          [
+            54.1875853,
+            36.8750751
+          ],
+          [
+            54.1913473,
+            36.876364
+          ],
+          [
+            54.1962985,
+            36.8787791
+          ],
+          [
+            54.2194178,
+            36.8804819
+          ]
+        ]
+      },
+      "id": "way/440577174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440578469",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554964,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان ترکمن",
+              "name:en": "Torkaman County",
+              "name:tk": "Türkmen Etraby",
+              "name:tr": "Türkmen İlçesi",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1292693",
+              "wikipedia": "en:Torkaman County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.1608719,
+            36.9667382
+          ],
+          [
+            54.1667952,
+            36.9637509
+          ]
+        ]
+      },
+      "id": "way/440578469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440580327",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554964,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان ترکمن",
+              "name:en": "Torkaman County",
+              "name:tk": "Türkmen Etraby",
+              "name:tr": "Türkmen İlçesi",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1292693",
+              "wikipedia": "en:Torkaman County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.2432098,
+            36.96548
+          ],
+          [
+            54.24858,
+            36.9636212
+          ],
+          [
+            54.2524142,
+            36.9617652
+          ],
+          [
+            54.2550944,
+            36.9592951
+          ],
+          [
+            54.2550842,
+            36.9559058
+          ],
+          [
+            54.2577604,
+            36.9522031
+          ],
+          [
+            54.2623587,
+            36.9494208
+          ],
+          [
+            54.2673436,
+            36.947562
+          ],
+          [
+            54.2746305,
+            36.9453901
+          ],
+          [
+            54.2800039,
+            36.9450706
+          ],
+          [
+            54.2846094,
+            36.9447525
+          ],
+          [
+            54.288444,
+            36.9435116
+          ],
+          [
+            54.2957343,
+            36.942571
+          ],
+          [
+            54.3030279,
+            36.9425543
+          ],
+          [
+            54.3099375,
+            36.9425382
+          ],
+          [
+            54.3156956,
+            36.9425244
+          ],
+          [
+            54.3199181,
+            36.9425142
+          ],
+          [
+            54.3245257,
+            36.942811
+          ],
+          [
+            54.3283692,
+            36.9440339
+          ],
+          [
+            54.3329867,
+            36.9467954
+          ],
+          [
+            54.3353023,
+            36.9498707
+          ],
+          [
+            54.3360848,
+            36.9535662
+          ],
+          [
+            54.3360946,
+            36.9560311
+          ],
+          [
+            54.3361241,
+            36.9634259
+          ],
+          [
+            54.3369117,
+            36.9683538
+          ],
+          [
+            54.3376969,
+            36.9726654
+          ],
+          [
+            54.3392466,
+            36.9760506
+          ],
+          [
+            54.342325,
+            36.9775832
+          ],
+          [
+            54.3441244,
+            36.9790174
+          ]
+        ]
+      },
+      "id": "way/440580327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440580700",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554964,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان ترکمن",
+              "name:en": "Torkaman County",
+              "name:tk": "Türkmen Etraby",
+              "name:tr": "Türkmen İlçesi",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1292693",
+              "wikipedia": "en:Torkaman County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.137827,
+            36.9719848
+          ],
+          [
+            54.1608651,
+            36.9667306
+          ],
+          [
+            54.1608719,
+            36.9667382
+          ]
+        ]
+      },
+      "id": "way/440580700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440581949",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554964,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان ترکمن",
+              "name:en": "Torkaman County",
+              "name:tk": "Türkmen Etraby",
+              "name:tr": "Türkmen İlçesi",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1292693",
+              "wikipedia": "en:Torkaman County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.0361293,
+            36.8177298
+          ],
+          [
+            54.0361318,
+            36.8177308
+          ],
+          [
+            54.0389923,
+            36.8188807
+          ],
+          [
+            54.0446544,
+            36.8214816
+          ]
+        ]
+      },
+      "id": "way/440581949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440581994",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554964,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان ترکمن",
+              "name:en": "Torkaman County",
+              "name:tk": "Türkmen Etraby",
+              "name:tr": "Türkmen İlçesi",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1292693",
+              "wikipedia": "en:Torkaman County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.0451133,
+            36.9479997
+          ],
+          [
+            54.1166202,
+            36.9720827
+          ],
+          [
+            54.137827,
+            36.9719848
+          ]
+        ]
+      },
+      "id": "way/440581994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440582033",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554964,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان ترکمن",
+              "name:en": "Torkaman County",
+              "name:tk": "Türkmen Etraby",
+              "name:tr": "Türkmen İlçesi",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1292693",
+              "wikipedia": "en:Torkaman County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.3332969,
+            36.9196382
+          ],
+          [
+            54.3360568,
+            36.9200874
+          ],
+          [
+            54.3377738,
+            36.9209768
+          ],
+          [
+            54.3376493,
+            36.9241996
+          ],
+          [
+            54.3401715,
+            36.926379
+          ]
+        ]
+      },
+      "id": "way/440582033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440582060",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554964,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان ترکمن",
+              "name:en": "Torkaman County",
+              "name:tk": "Türkmen Etraby",
+              "name:tr": "Türkmen İlçesi",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1292693",
+              "wikipedia": "en:Torkaman County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.2612219,
+            36.8955299
+          ],
+          [
+            54.2749619,
+            36.9006496
+          ],
+          [
+            54.3127392,
+            36.9096223
+          ],
+          [
+            54.3195819,
+            36.9155878
+          ],
+          [
+            54.3204832,
+            36.9167544
+          ],
+          [
+            54.3219852,
+            36.916377
+          ],
+          [
+            54.3240022,
+            36.9170632
+          ],
+          [
+            54.328165,
+            36.920357
+          ],
+          [
+            54.3332969,
+            36.9196382
+          ]
+        ]
+      },
+      "id": "way/440582060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440583212",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554964,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان ترکمن",
+              "name:en": "Torkaman County",
+              "name:tk": "Türkmen Etraby",
+              "name:tr": "Türkmen İlçesi",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1292693",
+              "wikipedia": "en:Torkaman County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.1163313,
+            36.860982
+          ],
+          [
+            54.1163066,
+            36.8610244
+          ],
+          [
+            54.1157831,
+            36.8619245
+          ],
+          [
+            54.1158079,
+            36.8619277
+          ],
+          [
+            54.1213421,
+            36.8626318
+          ]
+        ]
+      },
+      "id": "way/440583212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440584116",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554964,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان ترکمن",
+              "name:en": "Torkaman County",
+              "name:tk": "Türkmen Etraby",
+              "name:tr": "Türkmen İlçesi",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1292693",
+              "wikipedia": "en:Torkaman County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.2194178,
+            36.8804819
+          ],
+          [
+            54.2290766,
+            36.8797921
+          ],
+          [
+            54.2371787,
+            36.8805463
+          ],
+          [
+            54.2472971,
+            36.8903394
+          ],
+          [
+            54.2498355,
+            36.8912857
+          ],
+          [
+            54.2612219,
+            36.8955299
+          ]
+        ]
+      },
+      "id": "way/440584116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440587256",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554964,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان ترکمن",
+              "name:en": "Torkaman County",
+              "name:tk": "Türkmen Etraby",
+              "name:tr": "Türkmen İlçesi",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1292693",
+              "wikipedia": "en:Torkaman County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.0446544,
+            36.8214816
+          ],
+          [
+            54.0674724,
+            36.831959
+          ],
+          [
+            54.0725676,
+            36.8442279
+          ],
+          [
+            54.0846881,
+            36.8549566
+          ],
+          [
+            54.0850748,
+            36.8552988
+          ],
+          [
+            54.089357,
+            36.8590889
+          ],
+          [
+            54.1132727,
+            36.8605607
+          ],
+          [
+            54.115967,
+            36.8609319
+          ],
+          [
+            54.1163313,
+            36.860982
+          ]
+        ]
+      },
+      "id": "way/440587256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/653164016",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "maritime": "yes",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554964,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان ترکمن",
+              "name:en": "Torkaman County",
+              "name:tk": "Türkmen Etraby",
+              "name:tr": "Türkmen İlçesi",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1292693",
+              "wikipedia": "en:Torkaman County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.0451133,
+            36.9479997
+          ],
+          [
+            53.8548049,
+            36.939096
+          ]
+        ]
+      },
+      "id": "way/653164016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1164107533",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "maritime": "yes",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554964,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان ترکمن",
+              "name:en": "Torkaman County",
+              "name:tk": "Türkmen Etraby",
+              "name:tr": "Türkmen İlçesi",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1292693",
+              "wikipedia": "en:Torkaman County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.8548049,
+            36.939096
+          ],
+          [
+            53.8571537,
+            36.9375251
+          ]
+        ]
+      },
+      "id": "way/1164107533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1164107534",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554964,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان ترکمن",
+              "name:en": "Torkaman County",
+              "name:tk": "Türkmen Etraby",
+              "name:tr": "Türkmen İlçesi",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1292693",
+              "wikipedia": "en:Torkaman County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.0442145,
+            36.9389184
+          ],
+          [
+            54.044589,
+            36.9241179
+          ],
+          [
+            54.0436778,
+            36.9237615
+          ],
+          [
+            54.0437061,
+            36.9230106
+          ],
+          [
+            54.0414874,
+            36.921379
+          ],
+          [
+            54.0407536,
+            36.9158239
+          ],
+          [
+            54.0413826,
+            36.9124698
+          ],
+          [
+            54.0420902,
+            36.9071028
+          ],
+          [
+            54.0425764,
+            36.9039756
+          ],
+          [
+            54.0433207,
+            36.9030948
+          ],
+          [
+            54.0433672,
+            36.9017302
+          ],
+          [
+            54.0439062,
+            36.9015698
+          ],
+          [
+            54.0441345,
+            36.8986698
+          ],
+          [
+            54.0430739,
+            36.8984005
+          ],
+          [
+            54.0429406,
+            36.8978931
+          ],
+          [
+            54.0428202,
+            36.8971905
+          ],
+          [
+            54.043181,
+            36.8965782
+          ],
+          [
+            54.0424462,
+            36.8963227
+          ],
+          [
+            54.0425696,
+            36.8950157
+          ],
+          [
+            54.0417692,
+            36.8950134
+          ],
+          [
+            54.0421623,
+            36.8916163
+          ],
+          [
+            54.0420313,
+            36.8896871
+          ],
+          [
+            54.0430533,
+            36.8856187
+          ],
+          [
+            54.0441016,
+            36.8764326
+          ],
+          [
+            54.0440344,
+            36.8657596
+          ]
+        ]
+      },
+      "id": "way/1164107534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1164107536",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554964,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان ترکمن",
+              "name:en": "Torkaman County",
+              "name:tk": "Türkmen Etraby",
+              "name:tr": "Türkmen İlçesi",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1292693",
+              "wikipedia": "en:Torkaman County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.0331033,
+            36.8195543
+          ],
+          [
+            54.0341054,
+            36.8190855
+          ],
+          [
+            54.0361293,
+            36.8177298
+          ]
+        ]
+      },
+      "id": "way/1164107536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1164107537",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "maritime": "yes",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554964,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان ترکمن",
+              "name:en": "Torkaman County",
+              "name:tk": "Türkmen Etraby",
+              "name:tr": "Türkmen İlçesi",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1292693",
+              "wikipedia": "en:Torkaman County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.8571537,
+            36.9375251
+          ],
+          [
+            53.8632038,
+            36.9334786
+          ]
+        ]
+      },
+      "id": "way/1164107537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1164389398",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554964,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان ترکمن",
+              "name:en": "Torkaman County",
+              "name:tk": "Türkmen Etraby",
+              "name:tr": "Türkmen İlçesi",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1292693",
+              "wikipedia": "en:Torkaman County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            54.0440344,
+            36.8657596
+          ],
+          [
+            54.0439008,
+            36.864659
+          ],
+          [
+            54.0428001,
+            36.8533515
+          ],
+          [
+            54.0401325,
+            36.8389133
+          ],
+          [
+            54.0382085,
+            36.8328927
+          ],
+          [
+            54.0354901,
+            36.8281084
+          ],
+          [
+            54.033079,
+            36.8195657
+          ],
+          [
+            54.0331033,
+            36.8195543
+          ]
+        ]
+      },
+      "id": "way/1164389398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1171500597",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "maritime": "yes",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554964,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان ترکمن",
+              "name:en": "Torkaman County",
+              "name:tk": "Türkmen Etraby",
+              "name:tr": "Türkmen İlçesi",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1292693",
+              "wikipedia": "en:Torkaman County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            53.8632038,
+            36.9334786
+          ],
+          [
+            54.0442145,
+            36.9389184
+          ]
+        ]
+      },
+      "id": "way/1171500597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/295926933",
+        "is_in": "Golestan Province,Iran",
+        "is_in:country": "Iran",
+        "is_in:state": "Golestan",
+        "name": "بندر ترکمن",
+        "name:en": "Bandar-e Torkaman",
+        "name:fa": "بندر ترکمن",
+        "name:fr": "Bandar Torkaman",
+        "name:ja": "バンダレ・トルキャマン",
+        "name:ml": "ബന്ദർ തൊർക്കമൻ",
+        "name:ru": "Бендер-Торкемен",
+        "name:tk": "Bender Türkmen",
+        "name:tr": "Bender Türkmen",
+        "name:uz": "Bandar Turkman",
+        "place": "town",
+        "population": "53970",
+        "population:date": "2016",
+        "source:population": "amar.org.ir",
+        "wikidata": "Q643394",
+        "wikipedia": "ru:Бендер-Торкемен",
+        "@relations": [
+          {
+            "role": "admin_centre",
+            "rel": 6554964,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان ترکمن",
+              "name:en": "Torkaman County",
+              "name:tk": "Türkmen Etraby",
+              "name:tr": "Türkmen İlçesi",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1292693",
+              "wikipedia": "en:Torkaman County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.0697204,
+          36.8929175
+        ]
+      },
+      "id": "node/295926933"
+    }
+  ]
+}
