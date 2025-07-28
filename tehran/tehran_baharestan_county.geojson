@@ -1,0 +1,1737 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-07-28T10:21:27Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/6554945",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "name": "شهرستان بهارستان",
+        "name:en": "Baharestan County",
+        "place": "county",
+        "type": "boundary",
+        "wikidata": "Q4811776",
+        "wikipedia": "fa:شهرستان بهارستان"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.1345164,
+              35.5051114
+            ],
+            [
+              51.1390538,
+              35.5006594
+            ],
+            [
+              51.1428475,
+              35.4968158
+            ],
+            [
+              51.1447906,
+              35.497941
+            ],
+            [
+              51.1473441,
+              35.4988669
+            ],
+            [
+              51.1492703,
+              35.4953677
+            ],
+            [
+              51.1501775,
+              35.4946124
+            ],
+            [
+              51.1539533,
+              35.4908274
+            ],
+            [
+              51.1518827,
+              35.4887763
+            ],
+            [
+              51.1506271,
+              35.4874761
+            ],
+            [
+              51.1496079,
+              35.4867685
+            ],
+            [
+              51.149473,
+              35.4852906
+            ],
+            [
+              51.1504257,
+              35.4839802
+            ],
+            [
+              51.1502047,
+              35.4838195
+            ],
+            [
+              51.1489963,
+              35.4827761
+            ],
+            [
+              51.1505735,
+              35.4815093
+            ],
+            [
+              51.1483623,
+              35.4793882
+            ],
+            [
+              51.1468931,
+              35.4779341
+            ],
+            [
+              51.1478871,
+              35.4775498
+            ],
+            [
+              51.1477187,
+              35.4759405
+            ],
+            [
+              51.1479459,
+              35.47479
+            ],
+            [
+              51.1493167,
+              35.4761388
+            ],
+            [
+              51.1523907,
+              35.4746918
+            ],
+            [
+              51.1559358,
+              35.4744888
+            ],
+            [
+              51.1567446,
+              35.4744425
+            ],
+            [
+              51.1720006,
+              35.4728252
+            ],
+            [
+              51.1781083,
+              35.4745095
+            ],
+            [
+              51.1803528,
+              35.4753104
+            ],
+            [
+              51.1828558,
+              35.4774004
+            ],
+            [
+              51.1854927,
+              35.4786278
+            ],
+            [
+              51.1895481,
+              35.480386
+            ],
+            [
+              51.1945724,
+              35.4840516
+            ],
+            [
+              51.2100428,
+              35.4808944
+            ],
+            [
+              51.2096909,
+              35.4823415
+            ],
+            [
+              51.2106594,
+              35.4845073
+            ],
+            [
+              51.2041443,
+              35.4937193
+            ],
+            [
+              51.204994,
+              35.5016854
+            ],
+            [
+              51.2038257,
+              35.5081614
+            ],
+            [
+              51.202461,
+              35.5129613
+            ],
+            [
+              51.1993453,
+              35.520171
+            ],
+            [
+              51.2006328,
+              35.5267304
+            ],
+            [
+              51.2000663,
+              35.5289727
+            ],
+            [
+              51.199173,
+              35.5373339
+            ],
+            [
+              51.1991921,
+              35.5375986
+            ],
+            [
+              51.1989076,
+              35.5381506
+            ],
+            [
+              51.1979034,
+              35.5389887
+            ],
+            [
+              51.1967201,
+              35.5395719
+            ],
+            [
+              51.1957244,
+              35.5400697
+            ],
+            [
+              51.1948662,
+              35.5408031
+            ],
+            [
+              51.1944067,
+              35.5412235
+            ],
+            [
+              51.1941696,
+              35.5417447
+            ],
+            [
+              51.1937966,
+              35.5425648
+            ],
+            [
+              51.19371,
+              35.54334
+            ],
+            [
+              51.1927356,
+              35.5434809
+            ],
+            [
+              51.1914365,
+              35.5438333
+            ],
+            [
+              51.1903755,
+              35.5443794
+            ],
+            [
+              51.1896394,
+              35.5452603
+            ],
+            [
+              51.1893847,
+              35.5459848
+            ],
+            [
+              51.1929874,
+              35.5466628
+            ],
+            [
+              51.1921934,
+              35.5488659
+            ],
+            [
+              51.1906996,
+              35.5530295
+            ],
+            [
+              51.1817929,
+              35.5708442
+            ],
+            [
+              51.1815386,
+              35.5773219
+            ],
+            [
+              51.181648,
+              35.5797282
+            ],
+            [
+              51.182643,
+              35.5858038
+            ],
+            [
+              51.1823663,
+              35.5871923
+            ],
+            [
+              51.1823663,
+              35.5877512
+            ],
+            [
+              51.1820862,
+              35.5888602
+            ],
+            [
+              51.1818095,
+              35.5921962
+            ],
+            [
+              51.181533,
+              35.5944141
+            ],
+            [
+              51.1804765,
+              35.5985047
+            ],
+            [
+              51.1745408,
+              35.595284
+            ],
+            [
+              51.1699227,
+              35.593496
+            ],
+            [
+              51.1670675,
+              35.5914155
+            ],
+            [
+              51.164676,
+              35.5904305
+            ],
+            [
+              51.1656453,
+              35.5880415
+            ],
+            [
+              51.1600505,
+              35.5853473
+            ],
+            [
+              51.1595167,
+              35.58475
+            ],
+            [
+              51.1577614,
+              35.5814858
+            ],
+            [
+              51.1552693,
+              35.5799973
+            ],
+            [
+              51.147285,
+              35.5763654
+            ],
+            [
+              51.1457486,
+              35.5757304
+            ],
+            [
+              51.141547,
+              35.5733438
+            ],
+            [
+              51.1385324,
+              35.5713662
+            ],
+            [
+              51.1375282,
+              35.5704028
+            ],
+            [
+              51.1322238,
+              35.5703818
+            ],
+            [
+              51.1296232,
+              35.5662976
+            ],
+            [
+              51.1285059,
+              35.5636452
+            ],
+            [
+              51.1251328,
+              35.5569212
+            ],
+            [
+              51.1251327,
+              35.5539256
+            ],
+            [
+              51.1234333,
+              35.5516631
+            ],
+            [
+              51.1209053,
+              35.5505595
+            ],
+            [
+              51.1181869,
+              35.5492009
+            ],
+            [
+              51.1196803,
+              35.5446127
+            ],
+            [
+              51.1205558,
+              35.5422871
+            ],
+            [
+              51.1214568,
+              35.5401678
+            ],
+            [
+              51.1233107,
+              35.5383449
+            ],
+            [
+              51.1413355,
+              35.5254353
+            ],
+            [
+              51.1444752,
+              35.523493
+            ],
+            [
+              51.1456017,
+              35.5245056
+            ],
+            [
+              51.1470396,
+              35.5235815
+            ],
+            [
+              51.1452669,
+              35.5221485
+            ],
+            [
+              51.1381906,
+              35.5170577
+            ],
+            [
+              51.1357989,
+              35.5154597
+            ],
+            [
+              51.1339179,
+              35.5139552
+            ],
+            [
+              51.1299067,
+              35.5108952
+            ],
+            [
+              51.1271432,
+              35.5087682
+            ],
+            [
+              51.1217581,
+              35.504856
+            ],
+            [
+              51.1223888,
+              35.5043608
+            ],
+            [
+              51.1226194,
+              35.5042291
+            ],
+            [
+              51.1230004,
+              35.5040114
+            ],
+            [
+              51.123687,
+              35.5037494
+            ],
+            [
+              51.1245024,
+              35.5031467
+            ],
+            [
+              51.1229896,
+              35.4992163
+            ],
+            [
+              51.1222815,
+              35.4968928
+            ],
+            [
+              51.128244,
+              35.5008415
+            ],
+            [
+              51.1345164,
+              35.5051114
+            ]
+          ]
+        ]
+      },
+      "id": "relation/6554945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440575131",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554945,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان بهارستان",
+              "name:en": "Baharestan County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q4811776",
+              "wikipedia": "fa:شهرستان بهارستان"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1804765,
+            35.5985047
+          ],
+          [
+            51.181533,
+            35.5944141
+          ],
+          [
+            51.1818095,
+            35.5921962
+          ],
+          [
+            51.1820862,
+            35.5888602
+          ],
+          [
+            51.1823663,
+            35.5877512
+          ],
+          [
+            51.1823663,
+            35.5871923
+          ],
+          [
+            51.182643,
+            35.5858038
+          ],
+          [
+            51.181648,
+            35.5797282
+          ],
+          [
+            51.1815386,
+            35.5773219
+          ],
+          [
+            51.1817929,
+            35.5708442
+          ],
+          [
+            51.1906996,
+            35.5530295
+          ]
+        ]
+      },
+      "id": "way/440575131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440575569",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554945,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان بهارستان",
+              "name:en": "Baharestan County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q4811776",
+              "wikipedia": "fa:شهرستان بهارستان"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1781083,
+            35.4745095
+          ],
+          [
+            51.1803528,
+            35.4753104
+          ],
+          [
+            51.1828558,
+            35.4774004
+          ],
+          [
+            51.1854927,
+            35.4786278
+          ],
+          [
+            51.1895481,
+            35.480386
+          ],
+          [
+            51.1945724,
+            35.4840516
+          ],
+          [
+            51.2100428,
+            35.4808944
+          ]
+        ]
+      },
+      "id": "way/440575569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440576489",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554945,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان بهارستان",
+              "name:en": "Baharestan County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q4811776",
+              "wikipedia": "fa:شهرستان بهارستان"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1479459,
+            35.47479
+          ],
+          [
+            51.1493167,
+            35.4761388
+          ],
+          [
+            51.1523907,
+            35.4746918
+          ],
+          [
+            51.1559358,
+            35.4744888
+          ],
+          [
+            51.1567446,
+            35.4744425
+          ],
+          [
+            51.1720006,
+            35.4728252
+          ],
+          [
+            51.1781083,
+            35.4745095
+          ]
+        ]
+      },
+      "id": "way/440576489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440577310",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554945,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان بهارستان",
+              "name:en": "Baharestan County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q4811776",
+              "wikipedia": "fa:شهرستان بهارستان"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1452669,
+            35.5221485
+          ],
+          [
+            51.1381906,
+            35.5170577
+          ],
+          [
+            51.1357989,
+            35.5154597
+          ],
+          [
+            51.1339179,
+            35.5139552
+          ],
+          [
+            51.1299067,
+            35.5108952
+          ],
+          [
+            51.1271432,
+            35.5087682
+          ],
+          [
+            51.1217581,
+            35.504856
+          ]
+        ]
+      },
+      "id": "way/440577310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440578350",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554945,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان بهارستان",
+              "name:en": "Baharestan County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q4811776",
+              "wikipedia": "fa:شهرستان بهارستان"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1804765,
+            35.5985047
+          ],
+          [
+            51.1745408,
+            35.595284
+          ],
+          [
+            51.1699227,
+            35.593496
+          ],
+          [
+            51.1670675,
+            35.5914155
+          ],
+          [
+            51.164676,
+            35.5904305
+          ],
+          [
+            51.1656453,
+            35.5880415
+          ],
+          [
+            51.1600505,
+            35.5853473
+          ],
+          [
+            51.1595167,
+            35.58475
+          ],
+          [
+            51.1577614,
+            35.5814858
+          ],
+          [
+            51.1552693,
+            35.5799973
+          ],
+          [
+            51.147285,
+            35.5763654
+          ],
+          [
+            51.1457486,
+            35.5757304
+          ]
+        ]
+      },
+      "id": "way/440578350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440578497",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554945,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان بهارستان",
+              "name:en": "Baharestan County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q4811776",
+              "wikipedia": "fa:شهرستان بهارستان"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1906996,
+            35.5530295
+          ],
+          [
+            51.1921934,
+            35.5488659
+          ],
+          [
+            51.1929874,
+            35.5466628
+          ]
+        ]
+      },
+      "id": "way/440578497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440583369",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554945,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان بهارستان",
+              "name:en": "Baharestan County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q4811776",
+              "wikipedia": "fa:شهرستان بهارستان"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1457486,
+            35.5757304
+          ],
+          [
+            51.141547,
+            35.5733438
+          ],
+          [
+            51.1385324,
+            35.5713662
+          ],
+          [
+            51.1375282,
+            35.5704028
+          ],
+          [
+            51.1322238,
+            35.5703818
+          ],
+          [
+            51.1296232,
+            35.5662976
+          ],
+          [
+            51.1285059,
+            35.5636452
+          ]
+        ]
+      },
+      "id": "way/440583369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440587710",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554945,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان بهارستان",
+              "name:en": "Baharestan County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q4811776",
+              "wikipedia": "fa:شهرستان بهارستان"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1390538,
+            35.5006594
+          ],
+          [
+            51.1428475,
+            35.4968158
+          ],
+          [
+            51.1447906,
+            35.497941
+          ],
+          [
+            51.1473441,
+            35.4988669
+          ],
+          [
+            51.1492703,
+            35.4953677
+          ],
+          [
+            51.1501775,
+            35.4946124
+          ]
+        ]
+      },
+      "id": "way/440587710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964736409",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554945,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان بهارستان",
+              "name:en": "Baharestan County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q4811776",
+              "wikipedia": "fa:شهرستان بهارستان"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1181869,
+            35.5492009
+          ],
+          [
+            51.1196803,
+            35.5446127
+          ],
+          [
+            51.1205558,
+            35.5422871
+          ],
+          [
+            51.1214568,
+            35.5401678
+          ],
+          [
+            51.1233107,
+            35.5383449
+          ],
+          [
+            51.1413355,
+            35.5254353
+          ],
+          [
+            51.1444752,
+            35.523493
+          ],
+          [
+            51.1456017,
+            35.5245056
+          ],
+          [
+            51.1470396,
+            35.5235815
+          ]
+        ]
+      },
+      "id": "way/964736409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964736410",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554945,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان بهارستان",
+              "name:en": "Baharestan County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q4811776",
+              "wikipedia": "fa:شهرستان بهارستان"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1285059,
+            35.5636452
+          ],
+          [
+            51.1251328,
+            35.5569212
+          ],
+          [
+            51.1251327,
+            35.5539256
+          ],
+          [
+            51.1234333,
+            35.5516631
+          ],
+          [
+            51.1209053,
+            35.5505595
+          ],
+          [
+            51.1181869,
+            35.5492009
+          ]
+        ]
+      },
+      "id": "way/964736410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964736437",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554945,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان بهارستان",
+              "name:en": "Baharestan County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q4811776",
+              "wikipedia": "fa:شهرستان بهارستان"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1993453,
+            35.520171
+          ],
+          [
+            51.2006328,
+            35.5267304
+          ],
+          [
+            51.2000663,
+            35.5289727
+          ],
+          [
+            51.199173,
+            35.5373339
+          ]
+        ]
+      },
+      "id": "way/964736437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964736453",
+        "boundary": "administrative",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554945,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان بهارستان",
+              "name:en": "Baharestan County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q4811776",
+              "wikipedia": "fa:شهرستان بهارستان"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1893847,
+            35.5459848
+          ],
+          [
+            51.1929874,
+            35.5466628
+          ]
+        ]
+      },
+      "id": "way/964736453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964868054",
+        "boundary": "administrative",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554945,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان بهارستان",
+              "name:en": "Baharestan County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q4811776",
+              "wikipedia": "fa:شهرستان بهارستان"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1217581,
+            35.504856
+          ],
+          [
+            51.1223888,
+            35.5043608
+          ],
+          [
+            51.1226194,
+            35.5042291
+          ],
+          [
+            51.1230004,
+            35.5040114
+          ],
+          [
+            51.123687,
+            35.5037494
+          ],
+          [
+            51.1245024,
+            35.5031467
+          ],
+          [
+            51.1229896,
+            35.4992163
+          ],
+          [
+            51.1222815,
+            35.4968928
+          ],
+          [
+            51.128244,
+            35.5008415
+          ],
+          [
+            51.1345164,
+            35.5051114
+          ]
+        ]
+      },
+      "id": "way/964868054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964868055",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554945,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان بهارستان",
+              "name:en": "Baharestan County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q4811776",
+              "wikipedia": "fa:شهرستان بهارستان"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.2106594,
+            35.4845073
+          ],
+          [
+            51.2041443,
+            35.4937193
+          ],
+          [
+            51.204994,
+            35.5016854
+          ],
+          [
+            51.2038257,
+            35.5081614
+          ],
+          [
+            51.202461,
+            35.5129613
+          ],
+          [
+            51.1993453,
+            35.520171
+          ]
+        ]
+      },
+      "id": "way/964868055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964868057",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554945,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان بهارستان",
+              "name:en": "Baharestan County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q4811776",
+              "wikipedia": "fa:شهرستان بهارستان"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1478871,
+            35.4775498
+          ],
+          [
+            51.1477187,
+            35.4759405
+          ],
+          [
+            51.1479459,
+            35.47479
+          ]
+        ]
+      },
+      "id": "way/964868057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964868059",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554945,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان بهارستان",
+              "name:en": "Baharestan County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q4811776",
+              "wikipedia": "fa:شهرستان بهارستان"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1483623,
+            35.4793882
+          ],
+          [
+            51.1468931,
+            35.4779341
+          ],
+          [
+            51.1478871,
+            35.4775498
+          ]
+        ]
+      },
+      "id": "way/964868059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964868060",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554945,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان بهارستان",
+              "name:en": "Baharestan County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q4811776",
+              "wikipedia": "fa:شهرستان بهارستان"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1345164,
+            35.5051114
+          ],
+          [
+            51.1390538,
+            35.5006594
+          ]
+        ]
+      },
+      "id": "way/964868060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964868061",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554945,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان بهارستان",
+              "name:en": "Baharestan County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q4811776",
+              "wikipedia": "fa:شهرستان بهارستان"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1501775,
+            35.4946124
+          ],
+          [
+            51.1539533,
+            35.4908274
+          ],
+          [
+            51.1518827,
+            35.4887763
+          ],
+          [
+            51.1506271,
+            35.4874761
+          ],
+          [
+            51.1496079,
+            35.4867685
+          ],
+          [
+            51.149473,
+            35.4852906
+          ],
+          [
+            51.1504257,
+            35.4839802
+          ],
+          [
+            51.1502047,
+            35.4838195
+          ],
+          [
+            51.1489963,
+            35.4827761
+          ],
+          [
+            51.1505735,
+            35.4815093
+          ],
+          [
+            51.1483623,
+            35.4793882
+          ]
+        ]
+      },
+      "id": "way/964868061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964868074",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554945,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان بهارستان",
+              "name:en": "Baharestan County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q4811776",
+              "wikipedia": "fa:شهرستان بهارستان"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.2100428,
+            35.4808944
+          ],
+          [
+            51.2096909,
+            35.4823415
+          ],
+          [
+            51.2106594,
+            35.4845073
+          ]
+        ]
+      },
+      "id": "way/964868074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964992012",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554945,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان بهارستان",
+              "name:en": "Baharestan County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q4811776",
+              "wikipedia": "fa:شهرستان بهارستان"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.199173,
+            35.5373339
+          ],
+          [
+            51.1991921,
+            35.5375986
+          ],
+          [
+            51.1989076,
+            35.5381506
+          ],
+          [
+            51.1979034,
+            35.5389887
+          ],
+          [
+            51.1967201,
+            35.5395719
+          ],
+          [
+            51.1957244,
+            35.5400697
+          ],
+          [
+            51.1948662,
+            35.5408031
+          ],
+          [
+            51.1944067,
+            35.5412235
+          ],
+          [
+            51.1941696,
+            35.5417447
+          ],
+          [
+            51.1937966,
+            35.5425648
+          ],
+          [
+            51.19371,
+            35.54334
+          ],
+          [
+            51.1927356,
+            35.5434809
+          ],
+          [
+            51.1914365,
+            35.5438333
+          ],
+          [
+            51.1903755,
+            35.5443794
+          ],
+          [
+            51.1896394,
+            35.5452603
+          ],
+          [
+            51.1893847,
+            35.5459848
+          ]
+        ]
+      },
+      "id": "way/964992012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964992022",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554945,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان بهارستان",
+              "name:en": "Baharestan County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q4811776",
+              "wikipedia": "fa:شهرستان بهارستان"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1470396,
+            35.5235815
+          ],
+          [
+            51.1452669,
+            35.5221485
+          ]
+        ]
+      },
+      "id": "way/964992022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5382787195",
+        "name": "نسیم شهر",
+        "name:de": "Nasimschahr",
+        "name:en": "Nasimshahr",
+        "name:fa": "نسيم شهر",
+        "name:fr": "Nassimchahr",
+        "name:hr": "Nasimšaher",
+        "name:ml": "നസീംഷഹർ",
+        "name:ru": "Насимшахр",
+        "place": "town",
+        "population": "200393",
+        "population:date": "2016",
+        "source:population": "amar.org.ir",
+        "wikidata": "Q2629444",
+        "wikipedia": "fa:نسیم‌شهر",
+        "@relations": [
+          {
+            "role": "admin_centre",
+            "rel": 6554945,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان بهارستان",
+              "name:en": "Baharestan County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q4811776",
+              "wikipedia": "fa:شهرستان بهارستان"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.1591692,
+          35.5683375
+        ]
+      },
+      "id": "node/5382787195"
+    }
+  ]
+}

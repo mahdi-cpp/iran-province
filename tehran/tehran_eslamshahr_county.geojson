@@ -1,0 +1,2488 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-07-28T10:22:30Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/6554884",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "name": "شهرستان اسلامشهر",
+        "name:ar": "مقاطعة إسلام شهر",
+        "name:azb": "ایسلامشهر بؤلگه‌سی",
+        "name:de": "Schahrestan Eslamschahr",
+        "name:en": "Eslamshahr County",
+        "name:es": "Condado de Islamshahr",
+        "name:ur": "شہرستان اسلامشہر",
+        "place": "county",
+        "type": "boundary",
+        "wikidata": "Q1282239",
+        "wikipedia": "fa:شهرستان اسلامشهر"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              51.2792052,
+              35.5286922
+            ],
+            [
+              51.2840203,
+              35.5324222
+            ],
+            [
+              51.2859,
+              35.5328413
+            ],
+            [
+              51.2922085,
+              35.5330508
+            ],
+            [
+              51.2960396,
+              35.5334682
+            ],
+            [
+              51.3111115,
+              35.5406202
+            ],
+            [
+              51.315609,
+              35.5429948
+            ],
+            [
+              51.3173599,
+              35.5438328
+            ],
+            [
+              51.3190422,
+              35.5448664
+            ],
+            [
+              51.3195229,
+              35.5457324
+            ],
+            [
+              51.3189392,
+              35.5465425
+            ],
+            [
+              51.3185272,
+              35.5470453
+            ],
+            [
+              51.3185616,
+              35.5477995
+            ],
+            [
+              51.3183212,
+              35.5486934
+            ],
+            [
+              51.3180466,
+              35.5498107
+            ],
+            [
+              51.3180809,
+              35.5507604
+            ],
+            [
+              51.3178406,
+              35.5525691
+            ],
+            [
+              51.3178343,
+              35.554249
+            ],
+            [
+              51.3180918,
+              35.5548146
+            ],
+            [
+              51.3184008,
+              35.555443
+            ],
+            [
+              51.3182978,
+              35.5562391
+            ],
+            [
+              51.3180403,
+              35.5566161
+            ],
+            [
+              51.3177055,
+              35.557873
+            ],
+            [
+              51.3163923,
+              35.5592555
+            ],
+            [
+              51.3149246,
+              35.559884
+            ],
+            [
+              51.3131619,
+              35.5606773
+            ],
+            [
+              51.3146355,
+              35.5637363
+            ],
+            [
+              51.318698,
+              35.5717156
+            ],
+            [
+              51.3202172,
+              35.5739565
+            ],
+            [
+              51.3228436,
+              35.5755901
+            ],
+            [
+              51.3244658,
+              35.5769095
+            ],
+            [
+              51.3302594,
+              35.5812446
+            ],
+            [
+              51.3379327,
+              35.5882806
+            ],
+            [
+              51.3403804,
+              35.5902656
+            ],
+            [
+              51.3451797,
+              35.5941575
+            ],
+            [
+              51.3448198,
+              35.5968159
+            ],
+            [
+              51.3413431,
+              35.600062
+            ],
+            [
+              51.3437893,
+              35.6035792
+            ],
+            [
+              51.3430426,
+              35.6058403
+            ],
+            [
+              51.3434509,
+              35.6078458
+            ],
+            [
+              51.3405812,
+              35.6081217
+            ],
+            [
+              51.3376302,
+              35.6092481
+            ],
+            [
+              51.3343813,
+              35.6104882
+            ],
+            [
+              51.330589,
+              35.6138458
+            ],
+            [
+              51.3299043,
+              35.6145909
+            ],
+            [
+              51.3248439,
+              35.6200969
+            ],
+            [
+              51.3246313,
+              35.6203321
+            ],
+            [
+              51.3240165,
+              35.6210814
+            ],
+            [
+              51.3231014,
+              35.6221968
+            ],
+            [
+              51.3230067,
+              35.6222917
+            ],
+            [
+              51.3213909,
+              35.6242637
+            ],
+            [
+              51.3209276,
+              35.6247797
+            ],
+            [
+              51.319542,
+              35.6262263
+            ],
+            [
+              51.3188817,
+              35.6268575
+            ],
+            [
+              51.3172576,
+              35.6282217
+            ],
+            [
+              51.3164181,
+              35.6288655
+            ],
+            [
+              51.3155899,
+              35.6294183
+            ],
+            [
+              51.3138066,
+              35.630538
+            ],
+            [
+              51.3114948,
+              35.6317621
+            ],
+            [
+              51.3106771,
+              35.6321951
+            ],
+            [
+              51.3056536,
+              35.6347184
+            ],
+            [
+              51.3038112,
+              35.6356438
+            ],
+            [
+              51.301173,
+              35.6369689
+            ],
+            [
+              51.2990177,
+              35.6380512
+            ],
+            [
+              51.2915857,
+              35.6417245
+            ],
+            [
+              51.2873203,
+              35.6437041
+            ],
+            [
+              51.2857974,
+              35.6443967
+            ],
+            [
+              51.2850981,
+              35.6447149
+            ],
+            [
+              51.2825714,
+              35.6458492
+            ],
+            [
+              51.2821948,
+              35.6460183
+            ],
+            [
+              51.2804473,
+              35.6467733
+            ],
+            [
+              51.2793907,
+              35.6472297
+            ],
+            [
+              51.2746857,
+              35.6490051
+            ],
+            [
+              51.2709796,
+              35.6505013
+            ],
+            [
+              51.258661,
+              35.6552857
+            ],
+            [
+              51.2516963,
+              35.6578264
+            ],
+            [
+              51.249246,
+              35.6459202
+            ],
+            [
+              51.238972,
+              35.6446228
+            ],
+            [
+              51.2337192,
+              35.642614
+            ],
+            [
+              51.2314018,
+              35.6401447
+            ],
+            [
+              51.2276166,
+              35.640082
+            ],
+            [
+              51.2216647,
+              35.6489912
+            ],
+            [
+              51.2190006,
+              35.6494153
+            ],
+            [
+              51.2143519,
+              35.6500793
+            ],
+            [
+              51.213528,
+              35.6474847
+            ],
+            [
+              51.2126653,
+              35.6449458
+            ],
+            [
+              51.2094619,
+              35.6469237
+            ],
+            [
+              51.2056444,
+              35.6492807
+            ],
+            [
+              51.1902747,
+              35.658467
+            ],
+            [
+              51.1784499,
+              35.6468982
+            ],
+            [
+              51.174573,
+              35.648848
+            ],
+            [
+              51.1707703,
+              35.6510381
+            ],
+            [
+              51.1658813,
+              35.6462888
+            ],
+            [
+              51.1740304,
+              35.6394396
+            ],
+            [
+              51.1780142,
+              35.6365225
+            ],
+            [
+              51.1762127,
+              35.6331386
+            ],
+            [
+              51.1759764,
+              35.6324703
+            ],
+            [
+              51.1756996,
+              35.6274756
+            ],
+            [
+              51.1758334,
+              35.6272096
+            ],
+            [
+              51.1759763,
+              35.6258076
+            ],
+            [
+              51.176533,
+              35.6230308
+            ],
+            [
+              51.1768096,
+              35.6213629
+            ],
+            [
+              51.1770863,
+              35.6183065
+            ],
+            [
+              51.1783619,
+              35.6114884
+            ],
+            [
+              51.1797406,
+              35.6041181
+            ],
+            [
+              51.1804765,
+              35.5985047
+            ],
+            [
+              51.181533,
+              35.5944141
+            ],
+            [
+              51.1818095,
+              35.5921962
+            ],
+            [
+              51.1820862,
+              35.5888602
+            ],
+            [
+              51.1823663,
+              35.5877512
+            ],
+            [
+              51.1823663,
+              35.5871923
+            ],
+            [
+              51.182643,
+              35.5858038
+            ],
+            [
+              51.181648,
+              35.5797282
+            ],
+            [
+              51.1815386,
+              35.5773219
+            ],
+            [
+              51.1817929,
+              35.5708442
+            ],
+            [
+              51.1906996,
+              35.5530295
+            ],
+            [
+              51.1921934,
+              35.5488659
+            ],
+            [
+              51.1929874,
+              35.5466628
+            ],
+            [
+              51.1893847,
+              35.5459848
+            ],
+            [
+              51.1896394,
+              35.5452603
+            ],
+            [
+              51.1903755,
+              35.5443794
+            ],
+            [
+              51.1914365,
+              35.5438333
+            ],
+            [
+              51.1927356,
+              35.5434809
+            ],
+            [
+              51.19371,
+              35.54334
+            ],
+            [
+              51.1937966,
+              35.5425648
+            ],
+            [
+              51.1941696,
+              35.5417447
+            ],
+            [
+              51.1944067,
+              35.5412235
+            ],
+            [
+              51.1948662,
+              35.5408031
+            ],
+            [
+              51.1957244,
+              35.5400697
+            ],
+            [
+              51.1967201,
+              35.5395719
+            ],
+            [
+              51.1979034,
+              35.5389887
+            ],
+            [
+              51.1989076,
+              35.5381506
+            ],
+            [
+              51.1991921,
+              35.5375986
+            ],
+            [
+              51.199173,
+              35.5373339
+            ],
+            [
+              51.2000663,
+              35.5289727
+            ],
+            [
+              51.2006328,
+              35.5267304
+            ],
+            [
+              51.1993453,
+              35.520171
+            ],
+            [
+              51.202461,
+              35.5129613
+            ],
+            [
+              51.2038257,
+              35.5081614
+            ],
+            [
+              51.204994,
+              35.5016854
+            ],
+            [
+              51.2041443,
+              35.4937193
+            ],
+            [
+              51.2106594,
+              35.4845073
+            ],
+            [
+              51.2113634,
+              35.4847491
+            ],
+            [
+              51.2133158,
+              35.4846649
+            ],
+            [
+              51.2138307,
+              35.4842875
+            ],
+            [
+              51.2154014,
+              35.4850004
+            ],
+            [
+              51.2267187,
+              35.4899411
+            ],
+            [
+              51.2312248,
+              35.4907588
+            ],
+            [
+              51.2362946,
+              35.492796
+            ],
+            [
+              51.2494327,
+              35.5009786
+            ],
+            [
+              51.2576568,
+              35.5052516
+            ],
+            [
+              51.2624586,
+              35.5110715
+            ],
+            [
+              51.2714165,
+              35.5214287
+            ],
+            [
+              51.2743621,
+              35.5247434
+            ],
+            [
+              51.2792052,
+              35.5286922
+            ]
+          ]
+        ]
+      },
+      "id": "relation/6554884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440575131",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1804765,
+            35.5985047
+          ],
+          [
+            51.181533,
+            35.5944141
+          ],
+          [
+            51.1818095,
+            35.5921962
+          ],
+          [
+            51.1820862,
+            35.5888602
+          ],
+          [
+            51.1823663,
+            35.5877512
+          ],
+          [
+            51.1823663,
+            35.5871923
+          ],
+          [
+            51.182643,
+            35.5858038
+          ],
+          [
+            51.181648,
+            35.5797282
+          ],
+          [
+            51.1815386,
+            35.5773219
+          ],
+          [
+            51.1817929,
+            35.5708442
+          ],
+          [
+            51.1906996,
+            35.5530295
+          ]
+        ]
+      },
+      "id": "way/440575131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440577736",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.3114948,
+            35.6317621
+          ],
+          [
+            51.3138066,
+            35.630538
+          ],
+          [
+            51.3155899,
+            35.6294183
+          ],
+          [
+            51.3164181,
+            35.6288655
+          ],
+          [
+            51.3172576,
+            35.6282217
+          ],
+          [
+            51.3188817,
+            35.6268575
+          ],
+          [
+            51.319542,
+            35.6262263
+          ],
+          [
+            51.3209276,
+            35.6247797
+          ],
+          [
+            51.3213909,
+            35.6242637
+          ],
+          [
+            51.3230067,
+            35.6222917
+          ],
+          [
+            51.3231014,
+            35.6221968
+          ],
+          [
+            51.3240165,
+            35.6210814
+          ],
+          [
+            51.3246313,
+            35.6203321
+          ],
+          [
+            51.3248439,
+            35.6200969
+          ]
+        ]
+      },
+      "id": "way/440577736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440578417",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1797406,
+            35.6041181
+          ],
+          [
+            51.1804765,
+            35.5985047
+          ]
+        ]
+      },
+      "id": "way/440578417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440578497",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1906996,
+            35.5530295
+          ],
+          [
+            51.1921934,
+            35.5488659
+          ],
+          [
+            51.1929874,
+            35.5466628
+          ]
+        ]
+      },
+      "id": "way/440578497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440581930",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1740304,
+            35.6394396
+          ],
+          [
+            51.1780142,
+            35.6365225
+          ],
+          [
+            51.1762127,
+            35.6331386
+          ],
+          [
+            51.1759764,
+            35.6324703
+          ],
+          [
+            51.1756996,
+            35.6274756
+          ],
+          [
+            51.1758334,
+            35.6272096
+          ]
+        ]
+      },
+      "id": "way/440581930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440587135",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1758334,
+            35.6272096
+          ],
+          [
+            51.1759763,
+            35.6258076
+          ],
+          [
+            51.176533,
+            35.6230308
+          ],
+          [
+            51.1768096,
+            35.6213629
+          ],
+          [
+            51.1770863,
+            35.6183065
+          ],
+          [
+            51.1783619,
+            35.6114884
+          ],
+          [
+            51.1797406,
+            35.6041181
+          ]
+        ]
+      },
+      "id": "way/440587135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/659256615",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.301173,
+            35.6369689
+          ],
+          [
+            51.3038112,
+            35.6356438
+          ],
+          [
+            51.3056536,
+            35.6347184
+          ],
+          [
+            51.3106771,
+            35.6321951
+          ],
+          [
+            51.3114948,
+            35.6317621
+          ]
+        ]
+      },
+      "id": "way/659256615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/659256617",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.2850981,
+            35.6447149
+          ],
+          [
+            51.2857974,
+            35.6443967
+          ],
+          [
+            51.2873203,
+            35.6437041
+          ],
+          [
+            51.2915857,
+            35.6417245
+          ],
+          [
+            51.2990177,
+            35.6380512
+          ],
+          [
+            51.301173,
+            35.6369689
+          ]
+        ]
+      },
+      "id": "way/659256617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/659256779",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.3376302,
+            35.6092481
+          ],
+          [
+            51.3405812,
+            35.6081217
+          ],
+          [
+            51.3434509,
+            35.6078458
+          ]
+        ]
+      },
+      "id": "way/659256779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/687473137",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.3299043,
+            35.6145909
+          ],
+          [
+            51.330589,
+            35.6138458
+          ],
+          [
+            51.3343813,
+            35.6104882
+          ],
+          [
+            51.3376302,
+            35.6092481
+          ]
+        ]
+      },
+      "id": "way/687473137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964736432",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1658813,
+            35.6462888
+          ],
+          [
+            51.1740304,
+            35.6394396
+          ]
+        ]
+      },
+      "id": "way/964736432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964736433",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1658813,
+            35.6462888
+          ],
+          [
+            51.1707703,
+            35.6510381
+          ],
+          [
+            51.174573,
+            35.648848
+          ],
+          [
+            51.1784499,
+            35.6468982
+          ]
+        ]
+      },
+      "id": "way/964736433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964736435",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "ref:sci": "817061",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.2314018,
+            35.6401447
+          ],
+          [
+            51.2337192,
+            35.642614
+          ],
+          [
+            51.238972,
+            35.6446228
+          ],
+          [
+            51.249246,
+            35.6459202
+          ],
+          [
+            51.2516963,
+            35.6578264
+          ]
+        ]
+      },
+      "id": "way/964736435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964736436",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.2516963,
+            35.6578264
+          ],
+          [
+            51.258661,
+            35.6552857
+          ],
+          [
+            51.2709796,
+            35.6505013
+          ],
+          [
+            51.2746857,
+            35.6490051
+          ],
+          [
+            51.2793907,
+            35.6472297
+          ],
+          [
+            51.2804473,
+            35.6467733
+          ]
+        ]
+      },
+      "id": "way/964736436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964736437",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1993453,
+            35.520171
+          ],
+          [
+            51.2006328,
+            35.5267304
+          ],
+          [
+            51.2000663,
+            35.5289727
+          ],
+          [
+            51.199173,
+            35.5373339
+          ]
+        ]
+      },
+      "id": "way/964736437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964736439",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.3146355,
+            35.5637363
+          ],
+          [
+            51.318698,
+            35.5717156
+          ],
+          [
+            51.3202172,
+            35.5739565
+          ],
+          [
+            51.3228436,
+            35.5755901
+          ],
+          [
+            51.3244658,
+            35.5769095
+          ],
+          [
+            51.3302594,
+            35.5812446
+          ],
+          [
+            51.3379327,
+            35.5882806
+          ],
+          [
+            51.3403804,
+            35.5902656
+          ]
+        ]
+      },
+      "id": "way/964736439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964736440",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.2792052,
+            35.5286922
+          ],
+          [
+            51.2840203,
+            35.5324222
+          ],
+          [
+            51.2859,
+            35.5328413
+          ],
+          [
+            51.2922085,
+            35.5330508
+          ],
+          [
+            51.2960396,
+            35.5334682
+          ],
+          [
+            51.3111115,
+            35.5406202
+          ],
+          [
+            51.315609,
+            35.5429948
+          ],
+          [
+            51.3173599,
+            35.5438328
+          ],
+          [
+            51.3190422,
+            35.5448664
+          ],
+          [
+            51.3195229,
+            35.5457324
+          ],
+          [
+            51.3189392,
+            35.5465425
+          ],
+          [
+            51.3185272,
+            35.5470453
+          ],
+          [
+            51.3185616,
+            35.5477995
+          ],
+          [
+            51.3183212,
+            35.5486934
+          ],
+          [
+            51.3180466,
+            35.5498107
+          ],
+          [
+            51.3180809,
+            35.5507604
+          ],
+          [
+            51.3178406,
+            35.5525691
+          ]
+        ]
+      },
+      "id": "way/964736440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964736450",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.2804473,
+            35.6467733
+          ],
+          [
+            51.2821948,
+            35.6460183
+          ],
+          [
+            51.2825714,
+            35.6458492
+          ],
+          [
+            51.2850981,
+            35.6447149
+          ]
+        ]
+      },
+      "id": "way/964736450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964736453",
+        "boundary": "administrative",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1893847,
+            35.5459848
+          ],
+          [
+            51.1929874,
+            35.5466628
+          ]
+        ]
+      },
+      "id": "way/964736453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964868055",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.2106594,
+            35.4845073
+          ],
+          [
+            51.2041443,
+            35.4937193
+          ],
+          [
+            51.204994,
+            35.5016854
+          ],
+          [
+            51.2038257,
+            35.5081614
+          ],
+          [
+            51.202461,
+            35.5129613
+          ],
+          [
+            51.1993453,
+            35.520171
+          ]
+        ]
+      },
+      "id": "way/964868055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964868072",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.2792052,
+            35.5286922
+          ],
+          [
+            51.2743621,
+            35.5247434
+          ],
+          [
+            51.2714165,
+            35.5214287
+          ],
+          [
+            51.2624586,
+            35.5110715
+          ],
+          [
+            51.2576568,
+            35.5052516
+          ],
+          [
+            51.2494327,
+            35.5009786
+          ],
+          [
+            51.2362946,
+            35.492796
+          ]
+        ]
+      },
+      "id": "way/964868072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964868073",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.2362946,
+            35.492796
+          ],
+          [
+            51.2312248,
+            35.4907588
+          ],
+          [
+            51.2267187,
+            35.4899411
+          ],
+          [
+            51.2154014,
+            35.4850004
+          ],
+          [
+            51.2138307,
+            35.4842875
+          ],
+          [
+            51.2133158,
+            35.4846649
+          ],
+          [
+            51.2113634,
+            35.4847491
+          ]
+        ]
+      },
+      "id": "way/964868073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/964992012",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.199173,
+            35.5373339
+          ],
+          [
+            51.1991921,
+            35.5375986
+          ],
+          [
+            51.1989076,
+            35.5381506
+          ],
+          [
+            51.1979034,
+            35.5389887
+          ],
+          [
+            51.1967201,
+            35.5395719
+          ],
+          [
+            51.1957244,
+            35.5400697
+          ],
+          [
+            51.1948662,
+            35.5408031
+          ],
+          [
+            51.1944067,
+            35.5412235
+          ],
+          [
+            51.1941696,
+            35.5417447
+          ],
+          [
+            51.1937966,
+            35.5425648
+          ],
+          [
+            51.19371,
+            35.54334
+          ],
+          [
+            51.1927356,
+            35.5434809
+          ],
+          [
+            51.1914365,
+            35.5438333
+          ],
+          [
+            51.1903755,
+            35.5443794
+          ],
+          [
+            51.1896394,
+            35.5452603
+          ],
+          [
+            51.1893847,
+            35.5459848
+          ]
+        ]
+      },
+      "id": "way/964992012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1051853293",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.2113634,
+            35.4847491
+          ],
+          [
+            51.2106594,
+            35.4845073
+          ]
+        ]
+      },
+      "id": "way/1051853293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1059063833",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.3248439,
+            35.6200969
+          ],
+          [
+            51.3299043,
+            35.6145909
+          ]
+        ]
+      },
+      "id": "way/1059063833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1059063834",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.3178406,
+            35.5525691
+          ],
+          [
+            51.3178343,
+            35.554249
+          ],
+          [
+            51.3180918,
+            35.5548146
+          ],
+          [
+            51.3184008,
+            35.555443
+          ],
+          [
+            51.3182978,
+            35.5562391
+          ],
+          [
+            51.3180403,
+            35.5566161
+          ],
+          [
+            51.3177055,
+            35.557873
+          ],
+          [
+            51.3163923,
+            35.5592555
+          ],
+          [
+            51.3149246,
+            35.559884
+          ],
+          [
+            51.3131619,
+            35.5606773
+          ],
+          [
+            51.3146355,
+            35.5637363
+          ]
+        ]
+      },
+      "id": "way/1059063834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1059063835",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.3403804,
+            35.5902656
+          ],
+          [
+            51.3451797,
+            35.5941575
+          ],
+          [
+            51.3448198,
+            35.5968159
+          ],
+          [
+            51.3413431,
+            35.600062
+          ],
+          [
+            51.3437893,
+            35.6035792
+          ],
+          [
+            51.3430426,
+            35.6058403
+          ],
+          [
+            51.3434509,
+            35.6078458
+          ]
+        ]
+      },
+      "id": "way/1059063835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1059063839",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "ref:sci": "817061",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.1784499,
+            35.6468982
+          ],
+          [
+            51.1902747,
+            35.658467
+          ],
+          [
+            51.2056444,
+            35.6492807
+          ],
+          [
+            51.2094619,
+            35.6469237
+          ],
+          [
+            51.2126653,
+            35.6449458
+          ],
+          [
+            51.213528,
+            35.6474847
+          ],
+          [
+            51.2143519,
+            35.6500793
+          ],
+          [
+            51.2190006,
+            35.6494153
+          ]
+        ]
+      },
+      "id": "way/1059063839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1059063840",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "ref:sci": "817061",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            51.2190006,
+            35.6494153
+          ],
+          [
+            51.2216647,
+            35.6489912
+          ],
+          [
+            51.2276166,
+            35.640082
+          ],
+          [
+            51.2314018,
+            35.6401447
+          ]
+        ]
+      },
+      "id": "way/1059063840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6149532933",
+        "name": "اسلامشهر",
+        "name:ar": "إسلام شهر",
+        "name:azb": "ایسلامشهر",
+        "name:ckb": "ئیسلامشەھر",
+        "name:de": "Eslamschahr",
+        "name:el": "Εσλαμσάχρ",
+        "name:en": "Eslamshahr",
+        "name:es": "Islamshahr",
+        "name:eu": "Eslamxahr",
+        "name:fa": "اسلامشهر",
+        "name:fr": "Eslamchahr",
+        "name:he": "אסלאמשהר",
+        "name:hi": "इस्लामशहर",
+        "name:hr": "Eslamšaher",
+        "name:ku": "Îslamşehir",
+        "name:ml": "ഇസ്ലാംഷഹർ",
+        "name:pnb": "اسلام‌شہر",
+        "name:ru": "Исламшехр",
+        "name:tt": "Исламшәһр",
+        "name:ur": "اسلام‌شہر",
+        "place": "city",
+        "population": "448129",
+        "population:date": "2016",
+        "source:population": "مرکز آمار ایران",
+        "wikidata": "Q862519",
+        "@relations": [
+          {
+            "role": "admin_centre",
+            "rel": 6554884,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان اسلامشهر",
+              "name:ar": "مقاطعة إسلام شهر",
+              "name:azb": "ایسلامشهر بؤلگه‌سی",
+              "name:de": "Schahrestan Eslamschahr",
+              "name:en": "Eslamshahr County",
+              "name:es": "Condado de Islamshahr",
+              "name:ur": "شہرستان اسلامشہر",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1282239",
+              "wikipedia": "fa:شهرستان اسلامشهر"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.2318676,
+          35.5478513
+        ]
+      },
+      "id": "node/6149532933"
+    }
+  ]
+}

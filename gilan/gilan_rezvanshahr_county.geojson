@@ -1,0 +1,1600 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-07-28T09:28:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/6555044",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "name": "شهرستان رضوانشهر",
+        "name:en": "Rezvanshahr County",
+        "place": "county",
+        "type": "boundary",
+        "wikidata": "Q1286355",
+        "wikipedia": "en:Rezvanshahr County"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              49.0545429,
+              37.6762309
+            ],
+            [
+              49.0326214,
+              37.6630113
+            ],
+            [
+              49.0257955,
+              37.6587964
+            ],
+            [
+              49.0169992,
+              37.6560035
+            ],
+            [
+              49.010154,
+              37.6484727
+            ],
+            [
+              49.0036583,
+              37.6458739
+            ],
+            [
+              49.0081214,
+              37.6366647
+            ],
+            [
+              48.991642,
+              37.6244292
+            ],
+            [
+              48.982501,
+              37.6260607
+            ],
+            [
+              48.9722923,
+              37.6341125
+            ],
+            [
+              48.947207,
+              37.6221916
+            ],
+            [
+              48.926355,
+              37.6125035
+            ],
+            [
+              48.8936233,
+              37.5971641
+            ],
+            [
+              48.8792429,
+              37.5909664
+            ],
+            [
+              48.8720937,
+              37.587872
+            ],
+            [
+              48.8566944,
+              37.5975226
+            ],
+            [
+              48.8330814,
+              37.5900223
+            ],
+            [
+              48.831138,
+              37.5897436
+            ],
+            [
+              48.8294715,
+              37.5889071
+            ],
+            [
+              48.8283614,
+              37.5889071
+            ],
+            [
+              48.8153048,
+              37.5850221
+            ],
+            [
+              48.7776218,
+              37.5748682
+            ],
+            [
+              48.7770653,
+              37.5745894
+            ],
+            [
+              48.7635037,
+              37.5813174
+            ],
+            [
+              48.7501141,
+              37.5832219
+            ],
+            [
+              48.68946,
+              37.5634124
+            ],
+            [
+              48.6889034,
+              37.5631338
+            ],
+            [
+              48.6825133,
+              37.5597993
+            ],
+            [
+              48.6827934,
+              37.5589724
+            ],
+            [
+              48.6841799,
+              37.5561951
+            ],
+            [
+              48.6850134,
+              37.5553592
+            ],
+            [
+              48.6858466,
+              37.5536964
+            ],
+            [
+              48.6944958,
+              37.5317825
+            ],
+            [
+              48.6896893,
+              37.5099985
+            ],
+            [
+              48.7152994,
+              37.4741889
+            ],
+            [
+              48.7318804,
+              37.4570545
+            ],
+            [
+              48.7359667,
+              37.450833
+            ],
+            [
+              48.7414126,
+              37.4450183
+            ],
+            [
+              48.7481402,
+              37.4364985
+            ],
+            [
+              48.7570134,
+              37.429946
+            ],
+            [
+              48.7640189,
+              37.4240256
+            ],
+            [
+              48.7668746,
+              37.4205747
+            ],
+            [
+              48.8000253,
+              37.3919627
+            ],
+            [
+              48.8064153,
+              37.3930692
+            ],
+            [
+              48.8089154,
+              37.3941847
+            ],
+            [
+              48.809192,
+              37.3944636
+            ],
+            [
+              48.8169722,
+              37.398071
+            ],
+            [
+              48.8178055,
+              37.398071
+            ],
+            [
+              48.8389153,
+              37.4094596
+            ],
+            [
+              48.8689183,
+              37.4216846
+            ],
+            [
+              48.8697515,
+              37.4219635
+            ],
+            [
+              48.880759,
+              37.4250906
+            ],
+            [
+              48.8851031,
+              37.4293324
+            ],
+            [
+              48.8864187,
+              37.4305511
+            ],
+            [
+              48.890585,
+              37.4259648
+            ],
+            [
+              48.9027661,
+              37.4225755
+            ],
+            [
+              48.9432819,
+              37.4249432
+            ],
+            [
+              48.9713306,
+              37.433671
+            ],
+            [
+              48.9935742,
+              37.4376956
+            ],
+            [
+              48.999898,
+              37.4484879
+            ],
+            [
+              49.0078429,
+              37.4453703
+            ],
+            [
+              49.0118128,
+              37.4447666
+            ],
+            [
+              49.0306644,
+              37.4457333
+            ],
+            [
+              49.0463184,
+              37.4447214
+            ],
+            [
+              49.0612498,
+              37.4427451
+            ],
+            [
+              49.0662447,
+              37.4484074
+            ],
+            [
+              49.0767877,
+              37.4517462
+            ],
+            [
+              49.0774051,
+              37.4563178
+            ],
+            [
+              49.0737364,
+              37.4619726
+            ],
+            [
+              49.0614756,
+              37.4668161
+            ],
+            [
+              49.0523363,
+              37.4546889
+            ],
+            [
+              49.0476894,
+              37.4568731
+            ],
+            [
+              49.0418529,
+              37.4676374
+            ],
+            [
+              49.0424537,
+              37.4689317
+            ],
+            [
+              49.0408229,
+              37.4719291
+            ],
+            [
+              49.0410804,
+              37.4764248
+            ],
+            [
+              49.0428828,
+              37.4805798
+            ],
+            [
+              49.0455436,
+              37.4828955
+            ],
+            [
+              49.0567874,
+              37.480716
+            ],
+            [
+              49.0699195,
+              37.4845301
+            ],
+            [
+              49.0950679,
+              37.4754712
+            ],
+            [
+              49.1047602,
+              37.4750779
+            ],
+            [
+              49.1238563,
+              37.4744702
+            ],
+            [
+              49.1365666,
+              37.4741168
+            ],
+            [
+              49.1473303,
+              37.4738443
+            ],
+            [
+              49.1654142,
+              37.4732249
+            ],
+            [
+              49.1651058,
+              37.4746538
+            ],
+            [
+              49.1655778,
+              37.4779574
+            ],
+            [
+              49.1687585,
+              37.4809768
+            ],
+            [
+              49.1726072,
+              37.4851137
+            ],
+            [
+              49.1780064,
+              37.489075
+            ],
+            [
+              49.1847396,
+              37.4917152
+            ],
+            [
+              49.1904473,
+              37.4947116
+            ],
+            [
+              49.1919708,
+              37.4947456
+            ],
+            [
+              49.1998458,
+              37.4969418
+            ],
+            [
+              49.2034292,
+              37.4974184
+            ],
+            [
+              49.2184764,
+              37.4983058
+            ],
+            [
+              49.2179051,
+              37.4988825
+            ],
+            [
+              49.2167513,
+              37.4996699
+            ],
+            [
+              49.214186,
+              37.5025713
+            ],
+            [
+              49.2145013,
+              37.5037341
+            ],
+            [
+              49.2137466,
+              37.5098058
+            ],
+            [
+              49.2128166,
+              37.516656
+            ],
+            [
+              49.2120202,
+              37.5223338
+            ],
+            [
+              49.2099862,
+              37.5277223
+            ],
+            [
+              49.2059611,
+              37.5337561
+            ],
+            [
+              49.1943558,
+              37.5413557
+            ],
+            [
+              49.1914157,
+              37.54646
+            ],
+            [
+              49.1936212,
+              37.5557252
+            ],
+            [
+              49.1934494,
+              37.5574662
+            ],
+            [
+              49.1996489,
+              37.5715232
+            ],
+            [
+              49.3413851,
+              37.7379712
+            ],
+            [
+              49.3353924,
+              37.7414258
+            ],
+            [
+              49.3290805,
+              37.7448372
+            ],
+            [
+              49.3222644,
+              37.7491958
+            ],
+            [
+              49.3190021,
+              37.7512114
+            ],
+            [
+              49.3184896,
+              37.7515618
+            ],
+            [
+              49.3122939,
+              37.7555724
+            ],
+            [
+              49.3059406,
+              37.7594248
+            ],
+            [
+              49.2994363,
+              37.7631152
+            ],
+            [
+              49.2972598,
+              37.7642689
+            ],
+            [
+              49.2962586,
+              37.7650273
+            ],
+            [
+              49.2883839,
+              37.7705144
+            ],
+            [
+              49.2679205,
+              37.7859607
+            ],
+            [
+              49.0545429,
+              37.6762309
+            ]
+          ]
+        ]
+      },
+      "id": "relation/6555044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440575027",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555044,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان رضوانشهر",
+              "name:en": "Rezvanshahr County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1286355",
+              "wikipedia": "en:Rezvanshahr County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.1047602,
+            37.4750779
+          ],
+          [
+            49.1238563,
+            37.4744702
+          ],
+          [
+            49.1365666,
+            37.4741168
+          ],
+          [
+            49.1473303,
+            37.4738443
+          ],
+          [
+            49.1654142,
+            37.4732249
+          ]
+        ]
+      },
+      "id": "way/440575027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440575425",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555044,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان رضوانشهر",
+              "name:en": "Rezvanshahr County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1286355",
+              "wikipedia": "en:Rezvanshahr County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.2167513,
+            37.4996699
+          ],
+          [
+            49.214186,
+            37.5025713
+          ],
+          [
+            49.2145013,
+            37.5037341
+          ],
+          [
+            49.2137466,
+            37.5098058
+          ],
+          [
+            49.2128166,
+            37.516656
+          ],
+          [
+            49.2120202,
+            37.5223338
+          ],
+          [
+            49.2099862,
+            37.5277223
+          ],
+          [
+            49.2059611,
+            37.5337561
+          ],
+          [
+            49.1943558,
+            37.5413557
+          ],
+          [
+            49.1914157,
+            37.54646
+          ],
+          [
+            49.1936212,
+            37.5557252
+          ],
+          [
+            49.1934494,
+            37.5574662
+          ],
+          [
+            49.1996489,
+            37.5715232
+          ]
+        ]
+      },
+      "id": "way/440575425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440576608",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555044,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان رضوانشهر",
+              "name:en": "Rezvanshahr County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1286355",
+              "wikipedia": "en:Rezvanshahr County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            48.8000253,
+            37.3919627
+          ],
+          [
+            48.8064153,
+            37.3930692
+          ],
+          [
+            48.8089154,
+            37.3941847
+          ],
+          [
+            48.809192,
+            37.3944636
+          ],
+          [
+            48.8169722,
+            37.398071
+          ],
+          [
+            48.8178055,
+            37.398071
+          ],
+          [
+            48.8389153,
+            37.4094596
+          ],
+          [
+            48.8689183,
+            37.4216846
+          ],
+          [
+            48.8697515,
+            37.4219635
+          ],
+          [
+            48.880759,
+            37.4250906
+          ],
+          [
+            48.8851031,
+            37.4293324
+          ],
+          [
+            48.8864187,
+            37.4305511
+          ]
+        ]
+      },
+      "id": "way/440576608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440577884",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555044,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان رضوانشهر",
+              "name:en": "Rezvanshahr County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1286355",
+              "wikipedia": "en:Rezvanshahr County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            48.6825133,
+            37.5597993
+          ],
+          [
+            48.6889034,
+            37.5631338
+          ],
+          [
+            48.68946,
+            37.5634124
+          ],
+          [
+            48.7501141,
+            37.5832219
+          ],
+          [
+            48.7635037,
+            37.5813174
+          ],
+          [
+            48.7770653,
+            37.5745894
+          ],
+          [
+            48.7776218,
+            37.5748682
+          ],
+          [
+            48.8153048,
+            37.5850221
+          ],
+          [
+            48.8283614,
+            37.5889071
+          ],
+          [
+            48.8294715,
+            37.5889071
+          ],
+          [
+            48.831138,
+            37.5897436
+          ],
+          [
+            48.8330814,
+            37.5900223
+          ],
+          [
+            48.8566944,
+            37.5975226
+          ],
+          [
+            48.8720937,
+            37.587872
+          ],
+          [
+            48.8792429,
+            37.5909664
+          ],
+          [
+            48.8936233,
+            37.5971641
+          ],
+          [
+            48.926355,
+            37.6125035
+          ],
+          [
+            48.947207,
+            37.6221916
+          ]
+        ]
+      },
+      "id": "way/440577884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440577917",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555044,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان رضوانشهر",
+              "name:en": "Rezvanshahr County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1286355",
+              "wikipedia": "en:Rezvanshahr County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            48.8864187,
+            37.4305511
+          ],
+          [
+            48.890585,
+            37.4259648
+          ],
+          [
+            48.9027661,
+            37.4225755
+          ],
+          [
+            48.9432819,
+            37.4249432
+          ],
+          [
+            48.9713306,
+            37.433671
+          ],
+          [
+            48.9935742,
+            37.4376956
+          ],
+          [
+            48.999898,
+            37.4484879
+          ],
+          [
+            49.0078429,
+            37.4453703
+          ],
+          [
+            49.0118128,
+            37.4447666
+          ],
+          [
+            49.0306644,
+            37.4457333
+          ],
+          [
+            49.0463184,
+            37.4447214
+          ],
+          [
+            49.0612498,
+            37.4427451
+          ],
+          [
+            49.0662447,
+            37.4484074
+          ],
+          [
+            49.0767877,
+            37.4517462
+          ],
+          [
+            49.0774051,
+            37.4563178
+          ],
+          [
+            49.0737364,
+            37.4619726
+          ],
+          [
+            49.0614756,
+            37.4668161
+          ],
+          [
+            49.0523363,
+            37.4546889
+          ],
+          [
+            49.0476894,
+            37.4568731
+          ],
+          [
+            49.0418529,
+            37.4676374
+          ],
+          [
+            49.0424537,
+            37.4689317
+          ],
+          [
+            49.0408229,
+            37.4719291
+          ],
+          [
+            49.0410804,
+            37.4764248
+          ],
+          [
+            49.0428828,
+            37.4805798
+          ],
+          [
+            49.0455436,
+            37.4828955
+          ],
+          [
+            49.0567874,
+            37.480716
+          ],
+          [
+            49.0699195,
+            37.4845301
+          ],
+          [
+            49.0950679,
+            37.4754712
+          ],
+          [
+            49.1047602,
+            37.4750779
+          ]
+        ]
+      },
+      "id": "way/440577917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440580518",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555044,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان رضوانشهر",
+              "name:en": "Rezvanshahr County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1286355",
+              "wikipedia": "en:Rezvanshahr County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            48.947207,
+            37.6221916
+          ],
+          [
+            48.9722923,
+            37.6341125
+          ]
+        ]
+      },
+      "id": "way/440580518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440583337",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555044,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان رضوانشهر",
+              "name:en": "Rezvanshahr County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1286355",
+              "wikipedia": "en:Rezvanshahr County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            48.6825133,
+            37.5597993
+          ],
+          [
+            48.6827934,
+            37.5589724
+          ],
+          [
+            48.6841799,
+            37.5561951
+          ],
+          [
+            48.6850134,
+            37.5553592
+          ],
+          [
+            48.6858466,
+            37.5536964
+          ]
+        ]
+      },
+      "id": "way/440583337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440587598",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555044,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان رضوانشهر",
+              "name:en": "Rezvanshahr County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1286355",
+              "wikipedia": "en:Rezvanshahr County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            48.6858466,
+            37.5536964
+          ],
+          [
+            48.6944958,
+            37.5317825
+          ],
+          [
+            48.6896893,
+            37.5099985
+          ],
+          [
+            48.7152994,
+            37.4741889
+          ],
+          [
+            48.7318804,
+            37.4570545
+          ],
+          [
+            48.7359667,
+            37.450833
+          ],
+          [
+            48.7414126,
+            37.4450183
+          ],
+          [
+            48.7481402,
+            37.4364985
+          ],
+          [
+            48.7570134,
+            37.429946
+          ],
+          [
+            48.7640189,
+            37.4240256
+          ],
+          [
+            48.7668746,
+            37.4205747
+          ],
+          [
+            48.8000253,
+            37.3919627
+          ]
+        ]
+      },
+      "id": "way/440587598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440587799",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555044,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان رضوانشهر",
+              "name:en": "Rezvanshahr County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1286355",
+              "wikipedia": "en:Rezvanshahr County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            48.9722923,
+            37.6341125
+          ],
+          [
+            48.982501,
+            37.6260607
+          ],
+          [
+            48.991642,
+            37.6244292
+          ],
+          [
+            49.0081214,
+            37.6366647
+          ],
+          [
+            49.0036583,
+            37.6458739
+          ],
+          [
+            49.010154,
+            37.6484727
+          ],
+          [
+            49.0169992,
+            37.6560035
+          ],
+          [
+            49.0257955,
+            37.6587964
+          ],
+          [
+            49.0326214,
+            37.6630113
+          ],
+          [
+            49.0545429,
+            37.6762309
+          ]
+        ]
+      },
+      "id": "way/440587799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/472279987",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555044,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان رضوانشهر",
+              "name:en": "Rezvanshahr County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1286355",
+              "wikipedia": "en:Rezvanshahr County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.1654142,
+            37.4732249
+          ],
+          [
+            49.1651058,
+            37.4746538
+          ],
+          [
+            49.1655778,
+            37.4779574
+          ],
+          [
+            49.1687585,
+            37.4809768
+          ],
+          [
+            49.1726072,
+            37.4851137
+          ],
+          [
+            49.1780064,
+            37.489075
+          ],
+          [
+            49.1847396,
+            37.4917152
+          ],
+          [
+            49.1904473,
+            37.4947116
+          ],
+          [
+            49.1919708,
+            37.4947456
+          ],
+          [
+            49.1998458,
+            37.4969418
+          ],
+          [
+            49.2034292,
+            37.4974184
+          ],
+          [
+            49.2184764,
+            37.4983058
+          ]
+        ]
+      },
+      "id": "way/472279987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/653248102",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "maritime": "yes",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555044,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان رضوانشهر",
+              "name:en": "Rezvanshahr County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1286355",
+              "wikipedia": "en:Rezvanshahr County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.1996489,
+            37.5715232
+          ],
+          [
+            49.3413851,
+            37.7379712
+          ]
+        ]
+      },
+      "id": "way/653248102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/653248103",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "maritime": "yes",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555044,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان رضوانشهر",
+              "name:en": "Rezvanshahr County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1286355",
+              "wikipedia": "en:Rezvanshahr County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.0545429,
+            37.6762309
+          ],
+          [
+            49.2679205,
+            37.7859607
+          ]
+        ]
+      },
+      "id": "way/653248103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/994876370",
+        "admin_level": "2",
+        "border_type": "territorial",
+        "boundary": "administrative",
+        "maritime": "yes",
+        "name": "Maritime boundary (12 nm) - Iran",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555044,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان رضوانشهر",
+              "name:en": "Rezvanshahr County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1286355",
+              "wikipedia": "en:Rezvanshahr County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.2679205,
+            37.7859607
+          ],
+          [
+            49.2883839,
+            37.7705144
+          ],
+          [
+            49.2962586,
+            37.7650273
+          ],
+          [
+            49.2972598,
+            37.7642689
+          ],
+          [
+            49.2994363,
+            37.7631152
+          ]
+        ]
+      },
+      "id": "way/994876370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/994876393",
+        "admin_level": "2",
+        "border_type": "territorial",
+        "boundary": "administrative",
+        "maritime": "yes",
+        "name": "Maritime boundary (12 nm) - Iran",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555044,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان رضوانشهر",
+              "name:en": "Rezvanshahr County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1286355",
+              "wikipedia": "en:Rezvanshahr County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.2994363,
+            37.7631152
+          ],
+          [
+            49.3059406,
+            37.7594248
+          ],
+          [
+            49.3122939,
+            37.7555724
+          ],
+          [
+            49.3184896,
+            37.7515618
+          ],
+          [
+            49.3190021,
+            37.7512114
+          ],
+          [
+            49.3222644,
+            37.7491958
+          ],
+          [
+            49.3290805,
+            37.7448372
+          ],
+          [
+            49.3353924,
+            37.7414258
+          ],
+          [
+            49.3413851,
+            37.7379712
+          ]
+        ]
+      },
+      "id": "way/994876393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1075166440",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555044,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان رضوانشهر",
+              "name:en": "Rezvanshahr County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1286355",
+              "wikipedia": "en:Rezvanshahr County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            49.2184764,
+            37.4983058
+          ],
+          [
+            49.2179051,
+            37.4988825
+          ],
+          [
+            49.2167513,
+            37.4996699
+          ]
+        ]
+      },
+      "id": "way/1075166440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/303698717",
+        "int_name": "رضوانشهر",
+        "name": "رضوانشهر",
+        "name:az": "Rizvanşəhr",
+        "name:de": "Rezvanshahr",
+        "name:en": "Rezvanshahr",
+        "name:es": "Rezvanshahr",
+        "name:fr": "Rezvanshahr",
+        "name:glk": "رضوانشهر",
+        "name:ja": "レズヴァーンシャフル",
+        "name:ml": "റെസ്വാൻഷഹർ",
+        "name:tr": "Rızvanşehr",
+        "place": "town",
+        "population": "12355",
+        "wikidata": "Q2630688",
+        "wikipedia": "fa:رضوانشهر",
+        "@relations": [
+          {
+            "role": "admin_centre",
+            "rel": 6555044,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان رضوانشهر",
+              "name:en": "Rezvanshahr County",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q1286355",
+              "wikipedia": "en:Rezvanshahr County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1395774,
+          37.5479126
+        ]
+      },
+      "id": "node/303698717"
+    }
+  ]
+}
