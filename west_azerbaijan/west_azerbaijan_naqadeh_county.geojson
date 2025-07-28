@@ -1,0 +1,1487 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-07-28T08:14:46Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/6555236",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "name": "شهرستان نقده",
+        "name:en": "Naqadeh County",
+        "name:ku": "Nexede",
+        "place": "county",
+        "type": "boundary",
+        "wikidata": "Q721921",
+        "wikipedia": "en:Naqadeh County"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              45.2827017,
+              37.1501099
+            ],
+            [
+              45.2772036,
+              37.140518
+            ],
+            [
+              45.2738381,
+              37.1322513
+            ],
+            [
+              45.2704383,
+              37.1222208
+            ],
+            [
+              45.2688594,
+              37.1132704
+            ],
+            [
+              45.2685072,
+              37.1079173
+            ],
+            [
+              45.2685247,
+              37.0994477
+            ],
+            [
+              45.2673378,
+              37.0762266
+            ],
+            [
+              45.2653025,
+              37.0487382
+            ],
+            [
+              45.2627637,
+              37.0433884
+            ],
+            [
+              45.2573342,
+              37.0258277
+            ],
+            [
+              45.2558998,
+              37.0191621
+            ],
+            [
+              45.2556037,
+              37.0063226
+            ],
+            [
+              45.2485656,
+              36.9995367
+            ],
+            [
+              45.2477931,
+              36.9931615
+            ],
+            [
+              45.250235,
+              36.9845546
+            ],
+            [
+              45.2525524,
+              36.9802988
+            ],
+            [
+              45.2539955,
+              36.9761699
+            ],
+            [
+              45.2644923,
+              36.9575767
+            ],
+            [
+              45.2663138,
+              36.9542745
+            ],
+            [
+              45.2659892,
+              36.9381616
+            ],
+            [
+              45.266075,
+              36.9299288
+            ],
+            [
+              45.265133,
+              36.9209244
+            ],
+            [
+              45.2830212,
+              36.9183146
+            ],
+            [
+              45.295831,
+              36.9135019
+            ],
+            [
+              45.3120151,
+              36.8930001
+            ],
+            [
+              45.3216268,
+              36.8733118
+            ],
+            [
+              45.3325326,
+              36.8613417
+            ],
+            [
+              45.3352152,
+              36.8578773
+            ],
+            [
+              45.3471133,
+              36.8490988
+            ],
+            [
+              45.3834691,
+              36.840144
+            ],
+            [
+              45.4001426,
+              36.8363553
+            ],
+            [
+              45.4123736,
+              36.8329312
+            ],
+            [
+              45.4197678,
+              36.8300543
+            ],
+            [
+              45.4304182,
+              36.8265589
+            ],
+            [
+              45.4389094,
+              36.8237896
+            ],
+            [
+              45.4430824,
+              36.8226135
+            ],
+            [
+              45.4541719,
+              36.819128
+            ],
+            [
+              45.4611663,
+              36.8153403
+            ],
+            [
+              45.4794632,
+              36.8060478
+            ],
+            [
+              45.5006503,
+              36.7889412
+            ],
+            [
+              45.5086675,
+              36.7809119
+            ],
+            [
+              45.5278298,
+              36.7684194
+            ],
+            [
+              45.5366992,
+              36.7646044
+            ],
+            [
+              45.5443041,
+              36.76168
+            ],
+            [
+              45.5498743,
+              36.7582783
+            ],
+            [
+              45.5557966,
+              36.7541523
+            ],
+            [
+              45.5618044,
+              36.7492011
+            ],
+            [
+              45.5682846,
+              36.7574189
+            ],
+            [
+              45.5725336,
+              36.7656357
+            ],
+            [
+              45.5751179,
+              36.7729301
+            ],
+            [
+              45.5759238,
+              36.7784925
+            ],
+            [
+              45.5764387,
+              36.8070858
+            ],
+            [
+              45.579735,
+              36.8281914
+            ],
+            [
+              45.5818365,
+              36.8443282
+            ],
+            [
+              45.5841595,
+              36.8508492
+            ],
+            [
+              45.5800397,
+              36.8615209
+            ],
+            [
+              45.5773732,
+              36.8669383
+            ],
+            [
+              45.5860519,
+              36.874746
+            ],
+            [
+              45.5981929,
+              36.8917297
+            ],
+            [
+              45.6052609,
+              36.9012767
+            ],
+            [
+              45.6118011,
+              36.9114017
+            ],
+            [
+              45.6178092,
+              36.9190189
+            ],
+            [
+              45.6251916,
+              36.9258676
+            ],
+            [
+              45.6371833,
+              36.9336298
+            ],
+            [
+              45.6416701,
+              36.9382988
+            ],
+            [
+              45.6457069,
+              36.9423539
+            ],
+            [
+              45.6488799,
+              36.9461192
+            ],
+            [
+              45.6530854,
+              36.9483144
+            ],
+            [
+              45.690765,
+              36.9652553
+            ],
+            [
+              45.6931683,
+              36.9770499
+            ],
+            [
+              45.690765,
+              36.9924076
+            ],
+            [
+              45.6368634,
+              37.0094072
+            ],
+            [
+              45.6245037,
+              37.0264029
+            ],
+            [
+              45.6184657,
+              37.0484751
+            ],
+            [
+              45.6184656,
+              37.048754
+            ],
+            [
+              45.6042477,
+              37.0625748
+            ],
+            [
+              45.5987547,
+              37.0681907
+            ],
+            [
+              45.5987545,
+              37.0759978
+            ],
+            [
+              45.6145474,
+              37.0844887
+            ],
+            [
+              45.6196972,
+              37.1069439
+            ],
+            [
+              45.6275937,
+              37.1299399
+            ],
+            [
+              45.627937,
+              37.1521081
+            ],
+            [
+              45.6306836,
+              37.1600432
+            ],
+            [
+              45.6289669,
+              37.1731754
+            ],
+            [
+              45.6330868,
+              37.182476
+            ],
+            [
+              45.6344601,
+              37.205996
+            ],
+            [
+              45.63652,
+              37.2316954
+            ],
+            [
+              45.6495663,
+              37.2513742
+            ],
+            [
+              45.6543728,
+              37.2644905
+            ],
+            [
+              45.6670758,
+              37.2707746
+            ],
+            [
+              45.670509,
+              37.2838876
+            ],
+            [
+              45.6878289,
+              37.2901539
+            ],
+            [
+              45.6421216,
+              37.3036418
+            ],
+            [
+              45.6291132,
+              37.3035606
+            ],
+            [
+              45.5953151,
+              37.3033496
+            ],
+            [
+              45.5868276,
+              37.3059703
+            ],
+            [
+              45.5836179,
+              37.3155446
+            ],
+            [
+              45.5857526,
+              37.3244002
+            ],
+            [
+              45.5723531,
+              37.3265509
+            ],
+            [
+              45.5582813,
+              37.3271867
+            ],
+            [
+              45.5564822,
+              37.3290021
+            ],
+            [
+              45.5557824,
+              37.328221
+            ],
+            [
+              45.4858139,
+              37.2465538
+            ],
+            [
+              45.4141696,
+              37.1656526
+            ],
+            [
+              45.4087256,
+              37.1627791
+            ],
+            [
+              45.3996275,
+              37.1608639
+            ],
+            [
+              45.3882979,
+              37.1562124
+            ],
+            [
+              45.3809164,
+              37.1548443
+            ],
+            [
+              45.3601535,
+              37.1514567
+            ],
+            [
+              45.3282041,
+              37.1509453
+            ],
+            [
+              45.3173589,
+              37.1511159
+            ],
+            [
+              45.2936091,
+              37.1497065
+            ],
+            [
+              45.2859354,
+              37.1499656
+            ],
+            [
+              45.2827017,
+              37.1501099
+            ]
+          ]
+        ]
+      },
+      "id": "relation/6555236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440576598",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555236,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان نقده",
+              "name:en": "Naqadeh County",
+              "name:ku": "Nexede",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q721921",
+              "wikipedia": "en:Naqadeh County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.2738381,
+            37.1322513
+          ],
+          [
+            45.2704383,
+            37.1222208
+          ],
+          [
+            45.2688594,
+            37.1132704
+          ],
+          [
+            45.2685072,
+            37.1079173
+          ],
+          [
+            45.2685247,
+            37.0994477
+          ],
+          [
+            45.2673378,
+            37.0762266
+          ],
+          [
+            45.2653025,
+            37.0487382
+          ],
+          [
+            45.2627637,
+            37.0433884
+          ],
+          [
+            45.2573342,
+            37.0258277
+          ],
+          [
+            45.2558998,
+            37.0191621
+          ],
+          [
+            45.2556037,
+            37.0063226
+          ],
+          [
+            45.2485656,
+            36.9995367
+          ],
+          [
+            45.2477931,
+            36.9931615
+          ],
+          [
+            45.250235,
+            36.9845546
+          ]
+        ]
+      },
+      "id": "way/440576598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440577818",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555236,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان نقده",
+              "name:en": "Naqadeh County",
+              "name:ku": "Nexede",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q721921",
+              "wikipedia": "en:Naqadeh County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.250235,
+            36.9845546
+          ],
+          [
+            45.2525524,
+            36.9802988
+          ],
+          [
+            45.2539955,
+            36.9761699
+          ],
+          [
+            45.2644923,
+            36.9575767
+          ],
+          [
+            45.2663138,
+            36.9542745
+          ],
+          [
+            45.2659892,
+            36.9381616
+          ]
+        ]
+      },
+      "id": "way/440577818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440578934",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555236,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان نقده",
+              "name:en": "Naqadeh County",
+              "name:ku": "Nexede",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q721921",
+              "wikipedia": "en:Naqadeh County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.5953151,
+            37.3033496
+          ],
+          [
+            45.6291132,
+            37.3035606
+          ]
+        ]
+      },
+      "id": "way/440578934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440579234",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555236,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان نقده",
+              "name:en": "Naqadeh County",
+              "name:ku": "Nexede",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q721921",
+              "wikipedia": "en:Naqadeh County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.6421216,
+            37.3036418
+          ],
+          [
+            45.6878289,
+            37.2901539
+          ]
+        ]
+      },
+      "id": "way/440579234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440580386",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555236,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان نقده",
+              "name:en": "Naqadeh County",
+              "name:ku": "Nexede",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q721921",
+              "wikipedia": "en:Naqadeh County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.265133,
+            36.9209244
+          ],
+          [
+            45.2830212,
+            36.9183146
+          ],
+          [
+            45.295831,
+            36.9135019
+          ],
+          [
+            45.3120151,
+            36.8930001
+          ],
+          [
+            45.3216268,
+            36.8733118
+          ],
+          [
+            45.3325326,
+            36.8613417
+          ],
+          [
+            45.3352152,
+            36.8578773
+          ],
+          [
+            45.3471133,
+            36.8490988
+          ],
+          [
+            45.3834691,
+            36.840144
+          ],
+          [
+            45.4001426,
+            36.8363553
+          ],
+          [
+            45.4123736,
+            36.8329312
+          ],
+          [
+            45.4197678,
+            36.8300543
+          ],
+          [
+            45.4304182,
+            36.8265589
+          ],
+          [
+            45.4389094,
+            36.8237896
+          ],
+          [
+            45.4430824,
+            36.8226135
+          ],
+          [
+            45.4541719,
+            36.819128
+          ],
+          [
+            45.4611663,
+            36.8153403
+          ],
+          [
+            45.4794632,
+            36.8060478
+          ],
+          [
+            45.5006503,
+            36.7889412
+          ],
+          [
+            45.5086675,
+            36.7809119
+          ],
+          [
+            45.5278298,
+            36.7684194
+          ],
+          [
+            45.5366992,
+            36.7646044
+          ],
+          [
+            45.5443041,
+            36.76168
+          ]
+        ]
+      },
+      "id": "way/440580386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440580771",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555236,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان نقده",
+              "name:en": "Naqadeh County",
+              "name:ku": "Nexede",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q721921",
+              "wikipedia": "en:Naqadeh County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.5564822,
+            37.3290021
+          ],
+          [
+            45.5582813,
+            37.3271867
+          ],
+          [
+            45.5723531,
+            37.3265509
+          ],
+          [
+            45.5857526,
+            37.3244002
+          ]
+        ]
+      },
+      "id": "way/440580771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440581063",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555236,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان نقده",
+              "name:en": "Naqadeh County",
+              "name:ku": "Nexede",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q721921",
+              "wikipedia": "en:Naqadeh County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.5443041,
+            36.76168
+          ],
+          [
+            45.5498743,
+            36.7582783
+          ],
+          [
+            45.5557966,
+            36.7541523
+          ],
+          [
+            45.5618044,
+            36.7492011
+          ],
+          [
+            45.5682846,
+            36.7574189
+          ],
+          [
+            45.5725336,
+            36.7656357
+          ],
+          [
+            45.5751179,
+            36.7729301
+          ],
+          [
+            45.5759238,
+            36.7784925
+          ],
+          [
+            45.5764387,
+            36.8070858
+          ],
+          [
+            45.579735,
+            36.8281914
+          ],
+          [
+            45.5818365,
+            36.8443282
+          ],
+          [
+            45.5841595,
+            36.8508492
+          ],
+          [
+            45.5800397,
+            36.8615209
+          ],
+          [
+            45.5773732,
+            36.8669383
+          ],
+          [
+            45.5860519,
+            36.874746
+          ],
+          [
+            45.5981929,
+            36.8917297
+          ],
+          [
+            45.6052609,
+            36.9012767
+          ],
+          [
+            45.6118011,
+            36.9114017
+          ],
+          [
+            45.6178092,
+            36.9190189
+          ],
+          [
+            45.6251916,
+            36.9258676
+          ]
+        ]
+      },
+      "id": "way/440581063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440582553",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555236,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان نقده",
+              "name:en": "Naqadeh County",
+              "name:ku": "Nexede",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q721921",
+              "wikipedia": "en:Naqadeh County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.5564822,
+            37.3290021
+          ],
+          [
+            45.5557824,
+            37.328221
+          ],
+          [
+            45.4858139,
+            37.2465538
+          ],
+          [
+            45.4141696,
+            37.1656526
+          ],
+          [
+            45.4087256,
+            37.1627791
+          ],
+          [
+            45.3996275,
+            37.1608639
+          ],
+          [
+            45.3882979,
+            37.1562124
+          ],
+          [
+            45.3809164,
+            37.1548443
+          ],
+          [
+            45.3601535,
+            37.1514567
+          ]
+        ]
+      },
+      "id": "way/440582553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440587252",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555236,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان نقده",
+              "name:en": "Naqadeh County",
+              "name:ku": "Nexede",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q721921",
+              "wikipedia": "en:Naqadeh County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.2827017,
+            37.1501099
+          ],
+          [
+            45.2772036,
+            37.140518
+          ],
+          [
+            45.2738381,
+            37.1322513
+          ]
+        ]
+      },
+      "id": "way/440587252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440587628",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555236,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان نقده",
+              "name:en": "Naqadeh County",
+              "name:ku": "Nexede",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q721921",
+              "wikipedia": "en:Naqadeh County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.6184656,
+            37.048754
+          ],
+          [
+            45.6042477,
+            37.0625748
+          ],
+          [
+            45.5987547,
+            37.0681907
+          ],
+          [
+            45.5987545,
+            37.0759978
+          ],
+          [
+            45.6145474,
+            37.0844887
+          ],
+          [
+            45.6196972,
+            37.1069439
+          ],
+          [
+            45.6275937,
+            37.1299399
+          ],
+          [
+            45.627937,
+            37.1521081
+          ],
+          [
+            45.6306836,
+            37.1600432
+          ],
+          [
+            45.6289669,
+            37.1731754
+          ],
+          [
+            45.6330868,
+            37.182476
+          ],
+          [
+            45.6344601,
+            37.205996
+          ],
+          [
+            45.63652,
+            37.2316954
+          ],
+          [
+            45.6495663,
+            37.2513742
+          ],
+          [
+            45.6543728,
+            37.2644905
+          ],
+          [
+            45.6670758,
+            37.2707746
+          ],
+          [
+            45.670509,
+            37.2838876
+          ],
+          [
+            45.6878289,
+            37.2901539
+          ]
+        ]
+      },
+      "id": "way/440587628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440587634",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555236,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان نقده",
+              "name:en": "Naqadeh County",
+              "name:ku": "Nexede",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q721921",
+              "wikipedia": "en:Naqadeh County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.3601535,
+            37.1514567
+          ],
+          [
+            45.3282041,
+            37.1509453
+          ],
+          [
+            45.3173589,
+            37.1511159
+          ],
+          [
+            45.2936091,
+            37.1497065
+          ],
+          [
+            45.2859354,
+            37.1499656
+          ],
+          [
+            45.2827017,
+            37.1501099
+          ]
+        ]
+      },
+      "id": "way/440587634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/835426665",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555236,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان نقده",
+              "name:en": "Naqadeh County",
+              "name:ku": "Nexede",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q721921",
+              "wikipedia": "en:Naqadeh County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.5857526,
+            37.3244002
+          ],
+          [
+            45.5836179,
+            37.3155446
+          ],
+          [
+            45.5868276,
+            37.3059703
+          ],
+          [
+            45.5953151,
+            37.3033496
+          ]
+        ]
+      },
+      "id": "way/835426665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/835864270",
+        "admin_level": "4",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555236,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان نقده",
+              "name:en": "Naqadeh County",
+              "name:ku": "Nexede",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q721921",
+              "wikipedia": "en:Naqadeh County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.6291132,
+            37.3035606
+          ],
+          [
+            45.6421216,
+            37.3036418
+          ]
+        ]
+      },
+      "id": "way/835864270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905140598",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555236,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان نقده",
+              "name:en": "Naqadeh County",
+              "name:ku": "Nexede",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q721921",
+              "wikipedia": "en:Naqadeh County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.2659892,
+            36.9381616
+          ],
+          [
+            45.266075,
+            36.9299288
+          ],
+          [
+            45.265133,
+            36.9209244
+          ]
+        ]
+      },
+      "id": "way/905140598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/905140599",
+        "admin_level": "5",
+        "boundary": "administrative",
+        "source": "https://wiki.openstreetmap.org/wiki/WikiProject_Iran/Iran_boundaries_import",
+        "@relations": [
+          {
+            "role": "outer",
+            "rel": 6555236,
+            "reltags": {
+              "admin_level": "5",
+              "boundary": "administrative",
+              "name": "شهرستان نقده",
+              "name:en": "Naqadeh County",
+              "name:ku": "Nexede",
+              "place": "county",
+              "type": "boundary",
+              "wikidata": "Q721921",
+              "wikipedia": "en:Naqadeh County"
+            }
+          }
+        ]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            45.6251916,
+            36.9258676
+          ],
+          [
+            45.6371833,
+            36.9336298
+          ],
+          [
+            45.6416701,
+            36.9382988
+          ],
+          [
+            45.6457069,
+            36.9423539
+          ],
+          [
+            45.6488799,
+            36.9461192
+          ],
+          [
+            45.6530854,
+            36.9483144
+          ],
+          [
+            45.690765,
+            36.9652553
+          ],
+          [
+            45.6931683,
+            36.9770499
+          ],
+          [
+            45.690765,
+            36.9924076
+          ],
+          [
+            45.6368634,
+            37.0094072
+          ],
+          [
+            45.6245037,
+            37.0264029
+          ],
+          [
+            45.6184657,
+            37.0484751
+          ],
+          [
+            45.6184656,
+            37.048754
+          ]
+        ]
+      },
+      "id": "way/905140599"
+    }
+  ]
+}
